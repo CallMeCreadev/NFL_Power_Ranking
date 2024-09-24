@@ -39,6 +39,14 @@ def scrape_match_history(team_url):
         score_tag = game.find('span', class_='Schedule__Score')
         score = score_tag.get_text(strip=True) if score_tag else 'N/A'
 
+        # Reverse scores if the result is a loss
+        if result == 'L' and score != 'N/A':
+            # Split the score into individual scores, assume format like '23-20'
+            scores = score.split('-')
+            if len(scores) == 2:
+                # Reverse the score if it's a loss
+                score = f"{scores[1]}-{scores[0]}"
+
         # Only add games with available results
         if result:
             match_history.append({
@@ -106,12 +114,15 @@ def fetch_match_history():
 
 def get_opponents_by_team(match_histories):
     opponents_by_team = {}
+    scores_for_team = {}  # Separate dictionary to store scores
 
     for team, games in match_histories.items():
         opponents = [game['Opponent'] for game in games]
-        opponents_by_team[team] = opponents
+        scores = [game['Score'] for game in games]
+        opponents_by_team[team] = opponents  # Save only the opponents
+        scores_for_team[team] = scores  # Save scores separately
 
-    return opponents_by_team
+    return opponents_by_team, scores_for_team
 
 
 def save_to_file(data, filename):
@@ -132,14 +143,23 @@ if __name__ == "__main__":
     # Fetch match history for all teams
     match_histories = fetch_match_history()
 
-    # Get a dictionary of opponents by team
-    opponents_dict = get_opponents_by_team(match_histories)
+    # Get a dictionary of opponents by team and scores separately
+    opponents_dict, scores_dict = get_opponents_by_team(match_histories)
 
-    # Save the dictionary to a file
+    # Save the opponents dictionary to "OpponentsByTeam.json"
     save_to_file(opponents_dict, "OpponentsByTeam.json")
 
+    # Save the scores-only dictionary to "ScoresByTeam.json"
+    save_to_file(scores_dict, "ScoresByTeam.json")
+
     # Example of loading the dictionary back into a Python script
-    loaded_data = load_from_file("OpponentsByTeam.json")
-    print("\nLoaded Data:")
-    for team, opponents in loaded_data.items():
+    loaded_opponents_data = load_from_file("OpponentsByTeam.json")
+    loaded_scores_data = load_from_file("ScoresByTeam.json")
+
+    print("\nLoaded Opponents Data:")
+    for team, opponents in loaded_opponents_data.items():
         print(f"{team}: {opponents}")
+
+    print("\nLoaded Scores Data:")
+    for team, scores in loaded_scores_data.items():
+        print(f"{team}: {scores}")
