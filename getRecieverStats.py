@@ -9,7 +9,7 @@ import json
 
 # Set up WebDriver
 driver = webdriver.Chrome()  # Ensure your ChromeDriver is installed and in PATH
-url = "https://www.espn.com/nfl/stats/player/_/view/defense/table/defensive/sort/sacks/dir/desc"
+url = "https://www.espn.com/nfl/stats/player/_/stat/receiving/table/receiving/sort/receivingYardsAfterCatch/dir/desc"
 driver.get(url)
 
 # Function to click "Show More" button until it's no longer available
@@ -54,10 +54,10 @@ for row in name_team_body.find_all('tr', class_='Table__TR'):
 # Function to get ratings from the second <tbody>
 def getAVG_rush(row):
     td_elements = row.find_all('td', class_='Table__TD')
-    if len(td_elements) >= 14:
-        rating1 = td_elements[5].text  # Example: 45.5
-        rating2 = td_elements[9].text  # Example: 45.5
-        rating3 = td_elements[13].text  # Example: 45.5
+    if len(td_elements) >= 13:
+        rating1 = td_elements[8].text  # Example: 45.5
+        rating2 = td_elements[10].text  # Example: 45.5
+        rating3 = td_elements[12].text  # Example: 45.5
         return rating1, rating2, rating3
     return None, None, None
 
@@ -68,9 +68,9 @@ for row in stats_body.find_all('tr', class_='Table__TR'):
     # Use index or other matching criteria if available to ensure correct pairing
     if idx < len(players_dict):
         player_name = list(players_dict.keys())[idx]  # Assuming order matches
-        players_dict[player_name]['Sack'] = rating1
-        players_dict[player_name]['Int'] = rating2
-        players_dict[player_name]['ForcedFumble'] = rating3
+        players_dict[player_name]['BigPlay'] = rating1
+        players_dict[player_name]['Fumble'] = rating2
+        players_dict[player_name]['YAC'] = rating3
 
         idx += 1
 
@@ -81,7 +81,7 @@ def save_to_file(data, filename):
     print(f"Data saved to {filename}")
 
 # Save the players_dict to a file
-save_to_file(players_dict, 'player_Defense_Stats.json')
+save_to_file(players_dict, 'player_receiving.json')
 
 # Close the WebDriver
 driver.quit()

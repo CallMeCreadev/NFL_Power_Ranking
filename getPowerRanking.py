@@ -187,15 +187,30 @@ def calculate_power_rank(offense_calibrated, weak_defense_calibrated, points_ear
 
     return sorted_power_ranks, sorted_points_power_ranks
 
-
-def calculate_true_power_rank(power_ranks, points_power_ranks):
+# Function to calculate the true power rank by incorporating all stats
+def calculate_true_power_rank(power_ranks, points_power_ranks, team_stat_ratios):
     true_power_rank = {}
 
     for team, yards_power_rank in power_ranks.items():
         if team == "San Francisco 49ers":
             team = "San Francisco 49Ers"
         points_power_rank = points_power_ranks.get(team)
-        true_power_rank[team] = (yards_power_rank + points_power_rank) / 2.0
+        # Retrieve additional stats from team_stat_ratios
+        if team in team_stat_ratios:
+            additional_stats = team_stat_ratios[team]
+            # Combine all the stats into a single true power rank by averaging
+            combined_rank = (
+                1.75*yards_power_rank +
+                1.75*points_power_rank +
+                1.25*additional_stats.get('Defensive_Stat', 0) +
+                additional_stats.get('BigPlay', 0) +
+                additional_stats.get('Fumble', 0) +
+                1.25*additional_stats.get('QB_combined_stat', 0) +
+                1.25*additional_stats.get('Run_game_stat', 0)
+            ) / 9.25
+            true_power_rank[team] = combined_rank
+        else:
+            true_power_rank[team] = (yards_power_rank + points_power_rank) / 2.0
 
     # Sort the power ranks in descending order
     sorted_true_power_ranks = dict(sorted(true_power_rank.items(), key=lambda x: x[1], reverse=True))
@@ -249,6 +264,9 @@ if __name__ == "__main__":
     defense_dict = load_from_file("TeamsDefense.json")
     scores_dict = load_from_file("ScoresByTeam.json")
 
+    # Load the final team stats dictionary with ratios
+    team_stat_ratios = load_from_file("team_stat_ratios.json")  # Make sure to adjust this to the correct filename/path
+
     # Convert offense and defense values to floats
     convert_dict_values_to_float(offense_dict)
     convert_dict_values_to_float(defense_dict)
@@ -273,22 +291,11 @@ if __name__ == "__main__":
         offense_calibrated, weak_defense_calibrated, points_earned_calibrated, points_given_calibrated
     )
 
-    true_power_ranks = calculate_true_power_rank(power_ranks, points_power_ranks)
+    # Calculate the true power rank including all stats from team_stat_ratios
+    true_power_ranks = calculate_true_power_rank(power_ranks, points_power_ranks, team_stat_ratios)
+
     # Group power ranks by division
-    #grouped_power_ranks = group_power_ranks_by_division(power_ranks)
-    #grouped_points_power_ranks = group_power_ranks_by_division(points_power_ranks)
     grouped_power_ranks = group_power_ranks_by_division(true_power_ranks)
-
-
-
-    """
-    # Display grouped points power ranks
-    print("\nGrouped Points Power Ranks by Division:")
-    for division, ranks in grouped_points_power_ranks.items():
-        print(f"\n{division} Points Power Ranks (Descending Order):")
-        for team, rank in ranks.items():
-            print(f"{team}: {rank:.2f}")
-    """
 
     # Display grouped power ranks
     for division, ranks in grouped_power_ranks.items():
@@ -296,7 +303,7 @@ if __name__ == "__main__":
         for team, rank in ranks.items():
             print(f"{team}: {rank:.2f}")
 
-    print("")
+    # Display overall true power ranks
+    print("\nOverall True Power Ranks:")
     for team, score in sorted(true_power_ranks.items(), key=lambda item: item[1], reverse=True):
         print(f"{team:25} {score:.2f}")
-

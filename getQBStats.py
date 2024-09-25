@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from bs4 import BeautifulSoup
 import time
+import json
 
 # Set up WebDriver
 driver = webdriver.Chrome()  # Ensure your ChromeDriver is installed and in PATH
@@ -67,12 +68,18 @@ for row in stats_body.find_all('tr', class_='Table__TR'):
         # Use index or other matching criteria if available to ensure correct pairing
         if idx < len(players_dict):
             player_name = list(players_dict.keys())[idx]  # Assuming order matches
-            players_dict[player_name]['Rating1'] = rating1
-            players_dict[player_name]['Rating2'] = rating2
+            players_dict[player_name]['QBR'] = rating1
+            players_dict[player_name]['RTG'] = rating2
             idx += 1
 
-# Print the results
-print(players_dict)
+# Function to save the dictionary to a JSON file
+def save_to_file(data, filename):
+    with open(filename, 'w') as f:
+        json.dump(data, f, indent=4)
+    print(f"Data saved to {filename}")
+
+# Save the players_dict to a file
+save_to_file(players_dict, 'quarterback_stats.json')
 
 # Close the WebDriver
 driver.quit()
