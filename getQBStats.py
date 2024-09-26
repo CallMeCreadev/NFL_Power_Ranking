@@ -79,7 +79,7 @@ def save_to_file(data, filename):
     print(f"Data saved to {filename}")
 
 # Save the players_dict to a file
-save_to_file(players_dict, 'quarterback_stats.json')
+save_to_file(players_dict, 'json/quarterback_stats.json')
 
 # Close the WebDriver
 driver.quit()

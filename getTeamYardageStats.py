@@ -163,12 +163,12 @@ if __name__ == "__main__":
     print(defensive_stats_dict)
 
     # Save the dictionaries to files
-    save_to_file(offensive_stats_dict, "TeamsOffense.json")
-    save_to_file(defensive_stats_dict, "TeamsDefense.json")
+    save_to_file(offensive_stats_dict, "json/TeamsOffense.json")
+    save_to_file(defensive_stats_dict, "json/TeamsDefense.json")
 
     # Example of loading the dictionaries back into a Python script
-    loaded_offense = load_from_file("TeamsOffense.json")
-    loaded_defense = load_from_file("TeamsDefense.json")
+    loaded_offense = load_from_file("json/TeamsOffense.json")
+    loaded_defense = load_from_file("json/TeamsDefense.json")
 
     print("\nLoaded Offensive Stats Data:")
     print(loaded_offense)

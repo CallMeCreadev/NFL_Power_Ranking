@@ -147,14 +147,14 @@ if __name__ == "__main__":
     opponents_dict, scores_dict = get_opponents_by_team(match_histories)
 
     # Save the opponents dictionary to "OpponentsByTeam.json"
-    save_to_file(opponents_dict, "OpponentsByTeam.json")
+    save_to_file(opponents_dict, "json/OpponentsByTeam.json")
 
     # Save the scores-only dictionary to "ScoresByTeam.json"
-    save_to_file(scores_dict, "ScoresByTeam.json")
+    save_to_file(scores_dict, "json/ScoresByTeam.json")
 
     # Example of loading the dictionary back into a Python script
-    loaded_opponents_data = load_from_file("OpponentsByTeam.json")
-    loaded_scores_data = load_from_file("ScoresByTeam.json")
+    loaded_opponents_data = load_from_file("json/OpponentsByTeam.json")
+    loaded_scores_data = load_from_file("json/ScoresByTeam.json")
 
     print("\nLoaded Opponents Data:")
     for team, opponents in loaded_opponents_data.items():

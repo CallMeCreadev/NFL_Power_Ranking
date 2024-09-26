@@ -259,13 +259,13 @@ def group_power_ranks_by_division(power_ranks):
 # Main function to load data and calculate calibrated values
 if __name__ == "__main__":
     # Load data from JSON files
-    opponents_dict = load_from_file("OpponentsByTeam.json")
-    offense_dict = load_from_file("TeamsOffense.json")
-    defense_dict = load_from_file("TeamsDefense.json")
-    scores_dict = load_from_file("ScoresByTeam.json")
+    opponents_dict = load_from_file("json/OpponentsByTeam.json")
+    offense_dict = load_from_file("json/TeamsOffense.json")
+    defense_dict = load_from_file("json/TeamsDefense.json")
+    scores_dict = load_from_file("json/ScoresByTeam.json")
 
     # Load the final team stats dictionary with ratios
-    team_stat_ratios = load_from_file("team_stat_ratios.json")  # Make sure to adjust this to the correct filename/path
+    team_stat_ratios = load_from_file("json/team_stat_ratios.json")  # Make sure to adjust this to the correct filename/path
 
     # Convert offense and defense values to floats
     convert_dict_values_to_float(offense_dict)

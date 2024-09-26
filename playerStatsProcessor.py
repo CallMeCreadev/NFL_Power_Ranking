@@ -72,10 +72,10 @@ def convert_team_names(final_dict, team_mapping):
 # Main function to load JSON files, process stats, calculate averages, and convert to ratios
 def process_all_stats():
     # Load player stats from JSON files
-    defense_stats = load_json_file('player_Defense_Stats.json')
-    receiving_stats = load_json_file('player_receiving.json')
-    rushing_stats = load_json_file('player_rushing.json')
-    qb_stats = load_json_file('quarterback_stats.json')
+    defense_stats = load_json_file('json/player_Defense_Stats.json')
+    receiving_stats = load_json_file('json/player_receiving.json')
+    rushing_stats = load_json_file('json/player_rushing.json')
+    qb_stats = load_json_file('json/quarterback_stats.json')
 
     # Define the stat fields to sum or average for each category
     defense_fields = ['Sack', 'Int', 'ForcedFumble']
@@ -198,7 +198,7 @@ def process_all_stats():
     final_team_dict = convert_team_names(ratios, team_name_mapping)
 
     # Save the final dictionary with ratios to a file
-    save_to_file(final_team_dict, 'team_stat_ratios.json')
+    save_to_file(final_team_dict, 'json/team_stat_ratios.json')
     # Print the ratios for each team
     print("Team Stat Ratios Relative to Averages:")
     for team, stats in final_team_dict.items():
