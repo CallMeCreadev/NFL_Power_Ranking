@@ -1,0 +1,1112 @@
+{
+    "Jayden Reed": {
+        "Team": "GB",
+        "RushAVG": "17.8",
+        "BigPlay": "2",
+        "Fumble": "0"
+    },
+    "Wan'Dale Robinson": {
+        "Team": "NYG",
+        "RushAVG": "14.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Emari Demercado": {
+        "Team": "ARI",
+        "RushAVG": "13.3",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Kalif Raymond": {
+        "Team": "DET",
+        "RushAVG": "12.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Tyreek Hill": {
+        "Team": "MIA",
+        "RushAVG": "12.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Ray-Ray McCloud III": {
+        "Team": "ATL",
+        "RushAVG": "11.5",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Trevor Lawrence": {
+        "Team": "JAX",
+        "RushAVG": "11.2",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Kyler Murray": {
+        "Team": "ARI",
+        "RushAVG": "10.7",
+        "BigPlay": "3",
+        "Fumble": "0"
+    },
+    "Calvin Ridley": {
+        "Team": "TEN",
+        "RushAVG": "10.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Malik Willis": {
+        "Team": "GB",
+        "RushAVG": "9.5",
+        "BigPlay": "2",
+        "Fumble": "0"
+    },
+    "Tua Tagovailoa": {
+        "Team": "MIA",
+        "RushAVG": "9.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "DeMario Douglas": {
+        "Team": "NE",
+        "RushAVG": "9.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Tyler Badie": {
+        "Team": "DEN",
+        "RushAVG": "8.6",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "CeeDee Lamb": {
+        "Team": "DAL",
+        "RushAVG": "8.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Will Levis": {
+        "Team": "TEN",
+        "RushAVG": "7.8",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Xavier Worthy": {
+        "Team": "KC",
+        "RushAVG": "7.8",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Chase Brown": {
+        "Team": "CIN",
+        "RushAVG": "7.4",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "J.K. Dobbins": {
+        "Team": "LAC",
+        "RushAVG": "7.4",
+        "BigPlay": "3",
+        "Fumble": "0"
+    },
+    "Lamar Jackson": {
+        "Team": "BAL",
+        "RushAVG": "7.3",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Tyrod Taylor": {
+        "Team": "NYJ",
+        "RushAVG": "7.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Chris Olave": {
+        "Team": "NO",
+        "RushAVG": "7.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Tank Dell": {
+        "Team": "HOU",
+        "RushAVG": "7.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jameson Williams": {
+        "Team": "DET",
+        "RushAVG": "7.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Puka Nacua": {
+        "Team": "LAR",
+        "RushAVG": "7.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Audric Estime": {
+        "Team": "DEN",
+        "RushAVG": "7.0",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Baker Mayfield": {
+        "Team": "TB",
+        "RushAVG": "6.9",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Taysom Hill": {
+        "Team": "NO",
+        "RushAVG": "6.6",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Anthony Richardson": {
+        "Team": "IND",
+        "RushAVG": "6.5",
+        "BigPlay": "1",
+        "Fumble": "2"
+    },
+    "Austin Ekeler": {
+        "Team": "WSH",
+        "RushAVG": "6.4",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Ronnie Rivers": {
+        "Team": "LAR",
+        "RushAVG": "6.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Antonio Gibson": {
+        "Team": "NE",
+        "RushAVG": "6.2",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Bucky Irving": {
+        "Team": "TB",
+        "RushAVG": "6.2",
+        "BigPlay": "2",
+        "Fumble": "0"
+    },
+    "Caleb Williams": {
+        "Team": "CHI",
+        "RushAVG": "6.1",
+        "BigPlay": "1",
+        "Fumble": "1"
+    },
+    "Deshaun Watson": {
+        "Team": "CLE",
+        "RushAVG": "6.1",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Stefon Diggs": {
+        "Team": "HOU",
+        "RushAVG": "6.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Tim Boyle": {
+        "Team": "MIA",
+        "RushAVG": "6.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Drake Maye": {
+        "Team": "NE",
+        "RushAVG": "6.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Bo Nix": {
+        "Team": "DEN",
+        "RushAVG": "5.9",
+        "BigPlay": "2",
+        "Fumble": "0"
+    },
+    "Tank Bigsby": {
+        "Team": "JAX",
+        "RushAVG": "5.9",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Justice Hill": {
+        "Team": "BAL",
+        "RushAVG": "5.8",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Derius Davis": {
+        "Team": "LAC",
+        "RushAVG": "5.7",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Zay Flowers": {
+        "Team": "BAL",
+        "RushAVG": "5.7",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Tyler Allgeier": {
+        "Team": "ATL",
+        "RushAVG": "5.6",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Saquon Barkley": {
+        "Team": "PHI",
+        "RushAVG": "5.6",
+        "BigPlay": "3",
+        "Fumble": "0"
+    },
+    "Velus Jones Jr.": {
+        "Team": "CHI",
+        "RushAVG": "5.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Aaron Jones": {
+        "Team": "MIN",
+        "RushAVG": "5.4",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "D'Ernest Johnson": {
+        "Team": "JAX",
+        "RushAVG": "5.4",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Travis Homer": {
+        "Team": "CHI",
+        "RushAVG": "5.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Dameon Pierce": {
+        "Team": "HOU",
+        "RushAVG": "5.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Chuba Hubbard": {
+        "Team": "CAR",
+        "RushAVG": "5.2",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Jahmyr Gibbs": {
+        "Team": "DET",
+        "RushAVG": "5.2",
+        "BigPlay": "2",
+        "Fumble": "0"
+    },
+    "Kenneth Walker III": {
+        "Team": "SEA",
+        "RushAVG": "5.2",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Jonathan Taylor": {
+        "Team": "IND",
+        "RushAVG": "5.1",
+        "BigPlay": "3",
+        "Fumble": "0"
+    },
+    "Braelon Allen": {
+        "Team": "NYJ",
+        "RushAVG": "5.1",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Derrick Henry": {
+        "Team": "BAL",
+        "RushAVG": "5.0",
+        "BigPlay": "3",
+        "Fumble": "0"
+    },
+    "Cooper Kupp": {
+        "Team": "LAR",
+        "RushAVG": "5.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jeff Wilson Jr.": {
+        "Team": "MIA",
+        "RushAVG": "5.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Josh Allen": {
+        "Team": "BUF",
+        "RushAVG": "5.0",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Jerome Ford": {
+        "Team": "CLE",
+        "RushAVG": "5.0",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Garrett Wilson": {
+        "Team": "NYJ",
+        "RushAVG": "5.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Emanuel Wilson": {
+        "Team": "GB",
+        "RushAVG": "5.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Brock Purdy": {
+        "Team": "SF",
+        "RushAVG": "4.9",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Cordarrelle Patterson": {
+        "Team": "PIT",
+        "RushAVG": "4.9",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jordan Mason": {
+        "Team": "SF",
+        "RushAVG": "4.8",
+        "BigPlay": "2",
+        "Fumble": "1"
+    },
+    "Joe Mixon": {
+        "Team": "HOU",
+        "RushAVG": "4.7",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Devin Singletary": {
+        "Team": "NYG",
+        "RushAVG": "4.7",
+        "BigPlay": "2",
+        "Fumble": "2"
+    },
+    "Alvin Kamara": {
+        "Team": "NO",
+        "RushAVG": "4.7",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "James Cook": {
+        "Team": "BUF",
+        "RushAVG": "4.6",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Brian Robinson Jr.": {
+        "Team": "WSH",
+        "RushAVG": "4.6",
+        "BigPlay": "2",
+        "Fumble": "0"
+    },
+    "Travis Etienne Jr.": {
+        "Team": "JAX",
+        "RushAVG": "4.6",
+        "BigPlay": "2",
+        "Fumble": "1"
+    },
+    "David Montgomery": {
+        "Team": "DET",
+        "RushAVG": "4.5",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Jayden Daniels": {
+        "Team": "WSH",
+        "RushAVG": "4.5",
+        "BigPlay": "0",
+        "Fumble": "2"
+    },
+    "Josh Jacobs": {
+        "Team": "GB",
+        "RushAVG": "4.5",
+        "BigPlay": "3",
+        "Fumble": "2"
+    },
+    "Ty Chandler": {
+        "Team": "MIN",
+        "RushAVG": "4.5",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Dak Prescott": {
+        "Team": "DAL",
+        "RushAVG": "4.4",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Sam Darnold": {
+        "Team": "MIN",
+        "RushAVG": "4.4",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Rashid Shaheed": {
+        "Team": "NO",
+        "RushAVG": "4.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Rhamondre Stevenson": {
+        "Team": "NE",
+        "RushAVG": "4.3",
+        "BigPlay": "0",
+        "Fumble": "3"
+    },
+    "Jacoby Brissett": {
+        "Team": "NE",
+        "RushAVG": "4.2",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jalen Hurts": {
+        "Team": "PHI",
+        "RushAVG": "4.2",
+        "BigPlay": "2",
+        "Fumble": "2"
+    },
+    "Samaje Perine": {
+        "Team": "KC",
+        "RushAVG": "4.2",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Zack Moss": {
+        "Team": "CIN",
+        "RushAVG": "4.1",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "James Conner": {
+        "Team": "ARI",
+        "RushAVG": "4.1",
+        "BigPlay": "2",
+        "Fumble": "1"
+    },
+    "Patrick Mahomes": {
+        "Team": "KC",
+        "RushAVG": "4.1",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Bijan Robinson": {
+        "Team": "ATL",
+        "RushAVG": "4.1",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Tony Pollard": {
+        "Team": "TEN",
+        "RushAVG": "4.1",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Ty Johnson": {
+        "Team": "BUF",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "DJ Moore": {
+        "Team": "CHI",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Skylar Thompson": {
+        "Team": "MIA",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Greg Dortch": {
+        "Team": "ARI",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Trey Sermon": {
+        "Team": "IND",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Bo Melton": {
+        "Team": "GB",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Tyjae Spears": {
+        "Team": "TEN",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Sean Tucker": {
+        "Team": "TB",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Isiah Pacheco": {
+        "Team": "KC",
+        "RushAVG": "4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jaylen Warren": {
+        "Team": "PIT",
+        "RushAVG": "3.9",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Rico Dowdle": {
+        "Team": "DAL",
+        "RushAVG": "3.8",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Carson Steele": {
+        "Team": "KC",
+        "RushAVG": "3.8",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Jamaal Williams": {
+        "Team": "NO",
+        "RushAVG": "3.8",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Najee Harris": {
+        "Team": "PIT",
+        "RushAVG": "3.8",
+        "BigPlay": "2",
+        "Fumble": "0"
+    },
+    "Roschon Johnson": {
+        "Team": "CHI",
+        "RushAVG": "3.8",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Breece Hall": {
+        "Team": "NYJ",
+        "RushAVG": "3.7",
+        "BigPlay": "1",
+        "Fumble": "1"
+    },
+    "Hassan Haskins": {
+        "Team": "LAC",
+        "RushAVG": "3.7",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Kenny McIntosh": {
+        "Team": "SEA",
+        "RushAVG": "3.7",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Bryce Young": {
+        "Team": "CAR",
+        "RushAVG": "3.6",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Daniel Jones": {
+        "Team": "NYG",
+        "RushAVG": "3.5",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Zach Charbonnet": {
+        "Team": "SEA",
+        "RushAVG": "3.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "JaMycal Hasty": {
+        "Team": "NE",
+        "RushAVG": "3.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Devin Duvernay": {
+        "Team": "JAX",
+        "RushAVG": "3.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jaylen Waddle": {
+        "Team": "MIA",
+        "RushAVG": "3.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Blake Corum": {
+        "Team": "LAR",
+        "RushAVG": "3.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "De'Von Achane": {
+        "Team": "MIA",
+        "RushAVG": "3.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Derek Carr": {
+        "Team": "NO",
+        "RushAVG": "3.4",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Tyrone Tracy Jr.": {
+        "Team": "NYG",
+        "RushAVG": "3.4",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Ray Davis": {
+        "Team": "BUF",
+        "RushAVG": "3.4",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Cam Akers": {
+        "Team": "HOU",
+        "RushAVG": "3.3",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Geno Smith": {
+        "Team": "SEA",
+        "RushAVG": "3.3",
+        "BigPlay": "1",
+        "Fumble": "1"
+    },
+    "Ezekiel Elliott": {
+        "Team": "DAL",
+        "RushAVG": "3.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Justin Fields": {
+        "Team": "PIT",
+        "RushAVG": "3.2",
+        "BigPlay": "0",
+        "Fumble": "2"
+    },
+    "Zamir White": {
+        "Team": "LV",
+        "RushAVG": "3.2",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Isaac Guerendo": {
+        "Team": "SF",
+        "RushAVG": "3.2",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Miles Sanders": {
+        "Team": "CAR",
+        "RushAVG": "3.1",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Kyren Williams": {
+        "Team": "LAR",
+        "RushAVG": "3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Aaron Rodgers": {
+        "Team": "NYJ",
+        "RushAVG": "3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jared Goff": {
+        "Team": "DET",
+        "RushAVG": "3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jakobi Meyers": {
+        "Team": "LV",
+        "RushAVG": "3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "J.J. Taylor": {
+        "Team": "HOU",
+        "RushAVG": "3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jalen Nailor": {
+        "Team": "MIN",
+        "RushAVG": "3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "C.J. Stroud": {
+        "Team": "HOU",
+        "RushAVG": "3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jaylen Wright": {
+        "Team": "MIA",
+        "RushAVG": "3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Gus Edwards": {
+        "Team": "LAC",
+        "RushAVG": "2.9",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "D'Onta Foreman": {
+        "Team": "CLE",
+        "RushAVG": "2.9",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Deuce Vaughn": {
+        "Team": "DAL",
+        "RushAVG": "2.9",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jordan Mims": {
+        "Team": "NO",
+        "RushAVG": "2.8",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Kenneth Gainwell": {
+        "Team": "PHI",
+        "RushAVG": "2.7",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Gardner Minshew": {
+        "Team": "LV",
+        "RushAVG": "2.6",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Joe Burrow": {
+        "Team": "CIN",
+        "RushAVG": "2.5",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Jonathan Mingo": {
+        "Team": "CAR",
+        "RushAVG": "2.5",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "MarShawn Lloyd": {
+        "Team": "GB",
+        "RushAVG": "2.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Alexander Mattison": {
+        "Team": "LV",
+        "RushAVG": "2.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jaleel McLaughlin": {
+        "Team": "DEN",
+        "RushAVG": "2.2",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Justin Herbert": {
+        "Team": "LAC",
+        "RushAVG": "2.2",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Javonte Williams": {
+        "Team": "DEN",
+        "RushAVG": "2.2",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Rachaad White": {
+        "Team": "TB",
+        "RushAVG": "2.1",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Khalil Herbert": {
+        "Team": "CHI",
+        "RushAVG": "2.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "DJ Turner": {
+        "Team": "LV",
+        "RushAVG": "2.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "British Brooks": {
+        "Team": "HOU",
+        "RushAVG": "2.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Khalil Shakir": {
+        "Team": "BUF",
+        "RushAVG": "2.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Rome Odunze": {
+        "Team": "CHI",
+        "RushAVG": "2.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Eric Gray": {
+        "Team": "NYG",
+        "RushAVG": "2.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Malik Nabers": {
+        "Team": "NYG",
+        "RushAVG": "2.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Isaiah Davis": {
+        "Team": "NYJ",
+        "RushAVG": "2.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Trey Benson": {
+        "Team": "ARI",
+        "RushAVG": "1.9",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "D'Andre Swift": {
+        "Team": "CHI",
+        "RushAVG": "1.8",
+        "BigPlay": "1",
+        "Fumble": "0"
+    },
+    "Mike Boone": {
+        "Team": "CAR",
+        "RushAVG": "1.8",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Pierre Strong Jr.": {
+        "Team": "CLE",
+        "RushAVG": "1.7",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Alec Ingold": {
+        "Team": "MIA",
+        "RushAVG": "1.6",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "Raheem Mostert": {
+        "Team": "MIA",
+        "RushAVG": "1.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Dare Ogunbowale": {
+        "Team": "HOU",
+        "RushAVG": "1.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "KaVontae Turpin": {
+        "Team": "DAL",
+        "RushAVG": "1.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Deebo Samuel Sr.": {
+        "Team": "SF",
+        "RushAVG": "1.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jameis Winston": {
+        "Team": "CLE",
+        "RushAVG": "1.3",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Travis Kelce": {
+        "Team": "KC",
+        "RushAVG": "1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Brandin Cooks": {
+        "Team": "DAL",
+        "RushAVG": "1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jeremy McNichols": {
+        "Team": "WSH",
+        "RushAVG": "1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Chris Brooks": {
+        "Team": "GB",
+        "RushAVG": "1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Laviska Shenault Jr.": {
+        "Team": "SEA",
+        "RushAVG": "1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Rashee Rice": {
+        "Team": "KC",
+        "RushAVG": "1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Ameer Abdullah": {
+        "Team": "LV",
+        "RushAVG": "0.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Treylon Burks": {
+        "Team": "TEN",
+        "RushAVG": "0.5",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Nick Mullens": {
+        "Team": "MIN",
+        "RushAVG": "0.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Curtis Samuel": {
+        "Team": "BUF",
+        "RushAVG": "0.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Ja'Lynn Polk": {
+        "Team": "NE",
+        "RushAVG": "0.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Kameron Johnson": {
+        "Team": "TB",
+        "RushAVG": "0.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Kirk Cousins": {
+        "Team": "ATL",
+        "RushAVG": "-0.3",
+        "BigPlay": "0",
+        "Fumble": "2"
+    },
+    "Andy Dalton": {
+        "Team": "CAR",
+        "RushAVG": "-1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Brandon Allen": {
+        "Team": "SF",
+        "RushAVG": "-1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Cooper Rush": {
+        "Team": "DAL",
+        "RushAVG": "-1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Mitchell Trubisky": {
+        "Team": "BUF",
+        "RushAVG": "-1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Kyle Trask": {
+        "Team": "TB",
+        "RushAVG": "-1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Jake Haener": {
+        "Team": "NO",
+        "RushAVG": "-1.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Myles Gaskin": {
+        "Team": "MIN",
+        "RushAVG": "-3.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Cade Otton": {
+        "Team": "TB",
+        "RushAVG": "-4.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    },
+    "Clayton Tune": {
+        "Team": "ARI",
+        "RushAVG": "-6.0",
+        "BigPlay": "0",
+        "Fumble": "1"
+    },
+    "George Pickens": {
+        "Team": "PIT",
+        "RushAVG": "-10.0",
+        "BigPlay": "0",
+        "Fumble": "0"
+    }
+}

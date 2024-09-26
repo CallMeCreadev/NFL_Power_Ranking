@@ -1,0 +1,219 @@
+{
+    "Detroit Lions": {
+        "Defensive_Stat": 0.9779286926994907,
+        "BigPlay": 1.135483870967742,
+        "Fumble": 1.9591836734693877,
+        "QB_combined_stat": 0.5534773764363077,
+        "Run_game_stat": 1.19590091041426
+    },
+    "New York Jets": {
+        "Defensive_Stat": 1.1409168081494059,
+        "BigPlay": 1.032258064516129,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 1.3430534938699217,
+        "Run_game_stat": 1.1143114654488222
+    },
+    "Baltimore Ravens": {
+        "Defensive_Stat": 1.032258064516129,
+        "BigPlay": 1.032258064516129,
+        "Fumble": 1.9591836734693877,
+        "QB_combined_stat": 1.15691901698829,
+        "Run_game_stat": 1.2701581678328775
+    },
+    "Minnesota Vikings": {
+        "Defensive_Stat": 1.7385398981324278,
+        "BigPlay": 1.032258064516129,
+        "Fumble": 0.5104166666666666,
+        "QB_combined_stat": 1.3427016328550225,
+        "Run_game_stat": 0.9003302719528055
+    },
+    "New England Patriots": {
+        "Defensive_Stat": 0.8692699490662139,
+        "BigPlay": 0.3096774193548387,
+        "Fumble": 0.5104166666666666,
+        "QB_combined_stat": 0.7068887789323218,
+        "Run_game_stat": 0.6268352222566543
+    },
+    "New Orleans Saints": {
+        "Defensive_Stat": 1.7385398981324278,
+        "BigPlay": 0.7225806451612903,
+        "Fumble": 1.9591836734693877,
+        "QB_combined_stat": 1.3849249546429163,
+        "Run_game_stat": 0.8537623318406289
+    },
+    "Buffalo Bills": {
+        "Defensive_Stat": 1.466893039049236,
+        "BigPlay": 0.9290322580645162,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 1.592522953433394,
+        "Run_game_stat": 1.208668658511662
+    },
+    "Pittsburgh Steelers": {
+        "Defensive_Stat": 1.2495755517826825,
+        "BigPlay": 0.8258064516129032,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 1.004211336522074,
+        "Run_game_stat": 0.7578404215058927
+    },
+    "Cincinnati Bengals": {
+        "Defensive_Stat": 0.9235993208828522,
+        "BigPlay": 0.6193548387096774,
+        "Fumble": 0.5104166666666666,
+        "QB_combined_stat": 1.1963274506569908,
+        "Run_game_stat": 0.9464456078954253
+    },
+    "Tennessee Titans": {
+        "Defensive_Stat": 0.48896434634974534,
+        "BigPlay": 1.032258064516129,
+        "Fumble": 1.9591836734693877,
+        "QB_combined_stat": 0.7466490736159218,
+        "Run_game_stat": 0.821567088579489
+    },
+    "Las Vegas Raiders": {
+        "Defensive_Stat": 0.43463497453310695,
+        "BigPlay": 1.238709677419355,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 1.2350321622958933,
+        "Run_game_stat": 1.201714359525456
+    },
+    "New York Giants": {
+        "Defensive_Stat": 1.1409168081494059,
+        "BigPlay": 1.032258064516129,
+        "Fumble": 0.5104166666666666,
+        "QB_combined_stat": 0.9380614657210404,
+        "Run_game_stat": 1.055875238223823
+    },
+    "Denver Broncos": {
+        "Defensive_Stat": 1.032258064516129,
+        "BigPlay": 1.032258064516129,
+        "Fumble": 0.5104166666666666,
+        "QB_combined_stat": 0.817724998625543,
+        "Run_game_stat": 0.9027341029866738
+    },
+    "Seattle Seahawks": {
+        "Defensive_Stat": 1.466893039049236,
+        "BigPlay": 0.7225806451612903,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 1.099213810544835,
+        "Run_game_stat": 1.1566752157193378
+    },
+    "Arizona Cardinals": {
+        "Defensive_Stat": 0.8692699490662139,
+        "BigPlay": 1.4451612903225806,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 1.2681070976964102,
+        "Run_game_stat": 0.8076469958980091
+    },
+    "Green Bay Packers": {
+        "Defensive_Stat": 1.9558573853989814,
+        "BigPlay": 1.7548387096774194,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 1.1196217494089837,
+        "Run_game_stat": 1.0480157308985034
+    },
+    "Los Angeles Chargers": {
+        "Defensive_Stat": 0.9779286926994907,
+        "BigPlay": 0.6193548387096774,
+        "Fumble": 1.9591836734693877,
+        "QB_combined_stat": 0.9718401231513556,
+        "Run_game_stat": 0.6378097957394314
+    },
+    "Houston Texans": {
+        "Defensive_Stat": 1.303904923599321,
+        "BigPlay": 0.7225806451612903,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 0.9418146498799643,
+        "Run_game_stat": 1.1465301770743093
+    },
+    "Miami Dolphins": {
+        "Defensive_Stat": 0.8692699490662139,
+        "BigPlay": 0.8258064516129032,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 0.6380413070170617,
+        "Run_game_stat": 1.4934127178695913
+    },
+    "Dallas Cowboys": {
+        "Defensive_Stat": 1.1409168081494059,
+        "BigPlay": 1.032258064516129,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 0.636868436967398,
+        "Run_game_stat": 1.2221066918315981
+    },
+    "Cleveland Browns": {
+        "Defensive_Stat": 0.9235993208828522,
+        "BigPlay": 0.9290322580645162,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 0.6607949859805379,
+        "Run_game_stat": 0.7434777825252905
+    },
+    "Chicago Bears": {
+        "Defensive_Stat": 1.2495755517826825,
+        "BigPlay": 0.6193548387096774,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 0.6481279894441696,
+        "Run_game_stat": 0.913694667292774
+    },
+    "Philadelphia Eagles": {
+        "Defensive_Stat": 0.6519524617996605,
+        "BigPlay": 1.4451612903225806,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 1.0330639397438015,
+        "Run_game_stat": 1.3009855407149125
+    },
+    "San Francisco 49ers": {
+        "Defensive_Stat": 1.0865874363327674,
+        "BigPlay": 1.5483870967741935,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 1.2920336467095501,
+        "Run_game_stat": 0.6627331986763588
+    },
+    "Jacksonville Jaguars": {
+        "Defensive_Stat": 0.38030560271646857,
+        "BigPlay": 1.4451612903225806,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 0.6629061520699325,
+        "Run_game_stat": 0.5615912535860677
+    },
+    "Los Angeles Rams": {
+        "Defensive_Stat": 0.7062818336162988,
+        "BigPlay": 1.135483870967742,
+        "Fumble": 1.9591836734693877,
+        "QB_combined_stat": 1.0401011600417838,
+        "Run_game_stat": 1.092164034751843
+    },
+    "Atlanta Falcons": {
+        "Defensive_Stat": 0.48896434634974534,
+        "BigPlay": 0.7225806451612903,
+        "Fumble": 0.7656250000000001,
+        "QB_combined_stat": 0.9767661773599431,
+        "Run_game_stat": 0.9752865513666277
+    },
+    "Indianapolis Colts": {
+        "Defensive_Stat": 0.6519524617996605,
+        "BigPlay": 1.238709677419355,
+        "Fumble": 0.5104166666666666,
+        "QB_combined_stat": 0.7424267414371325,
+        "Run_game_stat": 0.6885618099523997
+    },
+    "Carolina Panthers": {
+        "Defensive_Stat": 0.7062818336162988,
+        "BigPlay": 0.9290322580645162,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 0.915542360767497,
+        "Run_game_stat": 0.9219044040350126
+    },
+    "Kansas City Chiefs": {
+        "Defensive_Stat": 1.2495755517826825,
+        "BigPlay": 0.8258064516129032,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 0.970432679091759,
+        "Run_game_stat": 1.3900982727654274
+    },
+    "Tampa Bay Buccaneers": {
+        "Defensive_Stat": 0.7606112054329371,
+        "BigPlay": 0.8258064516129032,
+        "Fumble": 1.5312500000000002,
+        "QB_combined_stat": 1.099213810544835,
+        "Run_game_stat": 1.1708223289049131
+    }
+}

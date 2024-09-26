@@ -1,0 +1,5204 @@
+{
+    "Aidan Hutchinson": {
+        "Team": "DET",
+        "Sack": "6.5",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Will McDonald IV": {
+        "Team": "NYJ",
+        "Sack": "5.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Kyle Van Noy": {
+        "Team": "BAL",
+        "Sack": "4.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jonathan Greenard": {
+        "Team": "MIN",
+        "Sack": "4.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Pat Jones II": {
+        "Team": "MIN",
+        "Sack": "4.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Keion White": {
+        "Team": "NE",
+        "Sack": "4.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Alontae Taylor": {
+        "Team": "NO",
+        "Sack": "3.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Von Miller": {
+        "Team": "BUF",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "T.J. Watt": {
+        "Team": "PIT",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trey Hendrickson": {
+        "Team": "CIN",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Harold Landry III": {
+        "Team": "TEN",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Andrew Van Ginkel": {
+        "Team": "MIN",
+        "Sack": "3.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Maxx Crosby": {
+        "Team": "LV",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Carl Granderson": {
+        "Team": "NO",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Dexter Lawrence II": {
+        "Team": "NYG",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jonathon Cooper": {
+        "Team": "DEN",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jason Pinnock": {
+        "Team": "NYG",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Boye Mafe": {
+        "Team": "SEA",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dennis Gardeck": {
+        "Team": "ARI",
+        "Sack": "3.0",
+        "Int": "1",
+        "ForcedFumble": "1"
+    },
+    "Devonte Wyatt": {
+        "Team": "GB",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Greg Rousseau": {
+        "Team": "BUF",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Bryan Bresee": {
+        "Team": "NO",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Derick Hall": {
+        "Team": "SEA",
+        "Sack": "3.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Khalil Mack": {
+        "Team": "LAC",
+        "Sack": "2.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Odafe Oweh": {
+        "Team": "BAL",
+        "Sack": "2.5",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Will Anderson Jr.": {
+        "Team": "HOU",
+        "Sack": "2.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Calais Campbell": {
+        "Team": "MIA",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DeMarcus Lawrence": {
+        "Team": "DAL",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Eric Kendricks": {
+        "Team": "DAL",
+        "Sack": "2.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Preston Smith": {
+        "Team": "GB",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mario Edwards Jr.": {
+        "Team": "HOU",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Za'Darius Smith": {
+        "Team": "CLE",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joey Bosa": {
+        "Team": "LAC",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Derek Barnett": {
+        "Team": "HOU",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Myles Garrett": {
+        "Team": "CLE",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "2"
+    },
+    "Clelin Ferrell": {
+        "Team": "WSH",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Zach Allen": {
+        "Team": "DEN",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Darrell Taylor": {
+        "Team": "CHI",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Zack Baun": {
+        "Team": "PHI",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tim Settle Jr.": {
+        "Team": "HOU",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Bosa": {
+        "Team": "SF",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kenneth Murray Jr.": {
+        "Team": "TEN",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Travon Walker": {
+        "Team": "JAX",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Gervon Dexter Sr.": {
+        "Team": "CHI",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Herbig": {
+        "Team": "PIT",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Byron Young": {
+        "Team": "LAR",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Dondrea Tillman": {
+        "Team": "DEN",
+        "Sack": "2.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Grady Jarrett": {
+        "Team": "ATL",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DeForest Buckner": {
+        "Team": "IND",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Leonard Williams": {
+        "Team": "SEA",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Danielle Hunter": {
+        "Team": "HOU",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Bobby Okereke": {
+        "Team": "NYG",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Solomon Thomas": {
+        "Team": "NYJ",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Matthew Judon": {
+        "Team": "ATL",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Micheal Clemons": {
+        "Team": "NYJ",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jayden Peevy": {
+        "Team": "CAR",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Kwity Paye": {
+        "Team": "IND",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kingsley Enagbare": {
+        "Team": "GB",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Micah McFadden": {
+        "Team": "NYG",
+        "Sack": "1.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cameron Heyward": {
+        "Team": "PIT",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Demario Davis": {
+        "Team": "NO",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jadeveon Clowney": {
+        "Team": "CAR",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mike Pennel Jr.": {
+        "Team": "KC",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Hicks": {
+        "Team": "CLE",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Quinton Jefferson": {
+        "Team": "CLE",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Denzel Perryman": {
+        "Team": "LAC",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Arik Armstead": {
+        "Team": "JAX",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Emmanuel Ogbah": {
+        "Team": "MIA",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dalvin Tomlinson": {
+        "Team": "CLE",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Deatrich Wise Jr.": {
+        "Team": "NE",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Javon Hargrave": {
+        "Team": "SF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Elandon Roberts": {
+        "Team": "PIT",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Maliek Collins": {
+        "Team": "SF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyquan Lewis": {
+        "Team": "IND",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Leonard Floyd": {
+        "Team": "SF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Jones": {
+        "Team": "KC",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Folorunso Fatukasi": {
+        "Team": "HOU",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chuck Clark": {
+        "Team": "NYJ",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Sebastian Joseph-Day": {
+        "Team": "TEN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Foyesade Oluokun": {
+        "Team": "JAX",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Montravius Adams": {
+        "Team": "PIT",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ogbo Okoronkwo": {
+        "Team": "CLE",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Zach Sieler": {
+        "Team": "MIA",
+        "Sack": "1.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Taven Bryan": {
+        "Team": "IND",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jarran Reed": {
+        "Team": "SEA",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Harrison Phillips": {
+        "Team": "MIN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "John Franklin-Myers": {
+        "Team": "DEN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Da'Shawn Hand": {
+        "Team": "MIA",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Robert Spillane": {
+        "Team": "LV",
+        "Sack": "1.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Montez Sweat": {
+        "Team": "CHI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Fred Warner": {
+        "Team": "SF",
+        "Sack": "1.0",
+        "Int": "1",
+        "ForcedFumble": "3"
+    },
+    "Derwin James Jr.": {
+        "Team": "LAC",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Blake Cashman": {
+        "Team": "MIN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josh Hines-Allen": {
+        "Team": "JAX",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dre'Mont Jones": {
+        "Team": "SEA",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Azeez Al-Shaair": {
+        "Team": "HOU",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kevin Givens": {
+        "Team": "SF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tremaine Edmunds": {
+        "Team": "CHI",
+        "Sack": "1.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Casey Toohill": {
+        "Team": "BUF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyrel Dodson": {
+        "Team": "SEA",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Jeffery Simmons": {
+        "Team": "TEN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brian Burns": {
+        "Team": "NYG",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Krys Barnes": {
+        "Team": "ARI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chauncey Golston": {
+        "Team": "DAL",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Alex Highsmith": {
+        "Team": "PIT",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Devon Key": {
+        "Team": "DEN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Levi Onwuzurike": {
+        "Team": "DET",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Ed Oliver": {
+        "Team": "BUF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Roy Lopez": {
+        "Team": "ARI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Quinnen Williams": {
+        "Team": "NYJ",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mack Wilson Sr.": {
+        "Team": "ARI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rashan Gary": {
+        "Team": "GB",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joshua Uche": {
+        "Team": "NE",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Milton Williams": {
+        "Team": "PHI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ja'Marcus Ingram": {
+        "Team": "BUF",
+        "Sack": "1.0",
+        "Int": "2",
+        "ForcedFumble": "0"
+    },
+    "Tony Adams": {
+        "Team": "NYJ",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "AJ Epenesa": {
+        "Team": "BUF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "LaBryan Ray": {
+        "Team": "CAR",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaelan Phillips": {
+        "Team": "MIA",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joe Tryon-Shoyinka": {
+        "Team": "TB",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Zaven Collins": {
+        "Team": "ARI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kobie Turner": {
+        "Team": "LAR",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Javon Kinlaw": {
+        "Team": "NYJ",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Keisean Nixon": {
+        "Team": "GB",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nik Bonitto": {
+        "Team": "DEN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalen Redmond": {
+        "Team": "MIN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Eku Leota": {
+        "Team": "CAR",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Javontae Jean-Baptiste": {
+        "Team": "WSH",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Micah Parsons": {
+        "Team": "DAL",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chamarri Conner": {
+        "Team": "KC",
+        "Sack": "1.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "DeMarvion Overshown": {
+        "Team": "DAL",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dante Stills": {
+        "Team": "ARI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jack Sanborn": {
+        "Team": "CHI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Azeez Ojulari": {
+        "Team": "NYG",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Davis": {
+        "Team": "PHI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kyle Dugger": {
+        "Team": "NE",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Henry To'oTo'o": {
+        "Team": "HOU",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dax Hill": {
+        "Team": "CIN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Laiatu Latu": {
+        "Team": "IND",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "David Ojabo": {
+        "Team": "BAL",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "George Karlaftis": {
+        "Team": "KC",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kei'Trel Clark": {
+        "Team": "ARI",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sauce Gardner": {
+        "Team": "NYJ",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Adetomiwa Adebawore": {
+        "Team": "IND",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Javon Solomon": {
+        "Team": "BUF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Elijah Chatman": {
+        "Team": "NYG",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "SirVocea Dennis": {
+        "Team": "TB",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dru Phillips": {
+        "Team": "NYG",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Dallas Turner": {
+        "Team": "MIN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sam Okuayinonu": {
+        "Team": "SF",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Alex Wright": {
+        "Team": "CLE",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jared Verse": {
+        "Team": "LAR",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Felix Anudike-Uzomah": {
+        "Team": "KC",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Lukas Van Ness": {
+        "Team": "GB",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jonah Elliss": {
+        "Team": "DEN",
+        "Sack": "1.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rakeem Nunez-Roches": {
+        "Team": "NYG",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Michael Pierce": {
+        "Team": "BAL",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dante Fowler Jr.": {
+        "Team": "WSH",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Daniel Ekuale": {
+        "Team": "NE",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Morgan Fox": {
+        "Team": "LAC",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ja'Whaun Bentley": {
+        "Team": "NE",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marcus Davenport": {
+        "Team": "DET",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Takk McKinley": {
+        "Team": "NYJ",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Christian Wilkins": {
+        "Team": "LV",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mike Danna": {
+        "Team": "KC",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dorance Armstrong": {
+        "Team": "WSH",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nnamdi Madubuike": {
+        "Team": "BAL",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tershawn Wharton": {
+        "Team": "KC",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Kenny Moore II": {
+        "Team": "IND",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaiah McDuffie": {
+        "Team": "GB",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Zach Carter": {
+        "Team": "CIN",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DJ Johnson": {
+        "Team": "CAR",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Charles Snowden": {
+        "Team": "LV",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chase Young": {
+        "Team": "NO",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dayo Odeyingbo": {
+        "Team": "IND",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jay Tufele": {
+        "Team": "CIN",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Quay Walker": {
+        "Team": "GB",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kayvon Thibodeaux": {
+        "Team": "NYG",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Edgerrin Cooper": {
+        "Team": "GB",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trenton Simpson": {
+        "Team": "BAL",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Leonard Taylor III": {
+        "Team": "NYJ",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Byron Murphy II": {
+        "Team": "SEA",
+        "Sack": "0.5",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brandon Graham": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trent Williams": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jerry Hughes": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Linval Joseph": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cameron Jordan": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Lawrence Guy": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Bellore": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Stephon Gilmore": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Harrison Smith": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Bobby Wagner": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Lavonte David": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Rodney McLeod Jr.": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Charley Hughlett": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Johnathan Hankins": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "John Jenkins": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyrann Mathieu": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "2",
+        "ForcedFumble": "1"
+    },
+    "Darius Slay Jr.": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Jordan Poyer": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "William Gholston": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Adam Thielen": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "James Winchester": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jimmie Ward": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "C.J. Mosley": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mike Evans": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Davante Adams": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brent Urban": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Shelby Harris": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "DaQuan Jones": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Casey Kreiter": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "MyCole Pruitt": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Michael Burton": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Troy Hill": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Manhertz": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kevin Byard III": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Robbie Chosen": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Roy Robertson-Harris": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Miles Killebrew": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joe Cardona": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Ameer Abdullah": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DeShawn Williams": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Bud Dupree": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Dak Prescott": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Phillips": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Quandre Diggs": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sam Eguavoen": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Conley": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Alex Singleton": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Justin Simmons": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Ronald Darby": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Eddie Goldman": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rayshawn Jenkins": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sheldon Rankins": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Eric Murray": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jonathan Jones": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Nick Vigil": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Adam Butler": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dean Lowry": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Eric Saubert": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Damontae Kazee": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Sheldon Day": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyler Matakevich": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DJ Reader": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Shaq Thompson": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Christian Kuntz": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Austin Johnson": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jonathan Bullard": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marcus Maye": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Scott Daly": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mike Hilton": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Thomas Hennessy": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dare Ogunbowale": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mack Hollins": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Thurman": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josey Jewell": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "De'Vondre Campbell": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Xavier Woods": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tre'Davious White": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Alex Anzalone": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalen Reeves-Maybin": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kendal Vickers": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jourdan Lewis": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Maurice Hurst II": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Anthony Walker Jr.": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalen Ramsey": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DeMarcus Walker": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kendall Fuller": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "John Johnson III": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Tre Flowers": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "KhaDarel Hodge": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Larry Ogunjobi": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "George Odum": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kamu Grugier-Hill": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Mike Ford Jr.": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Vonn Bell": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ezekiel Elliott": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Andrew Billings": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Charles Harris": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chidobe Awuzie": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kevin King": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trent Sieg": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Michael Davis": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Shaquill Griffin": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jonnu Smith": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jonathan Allen": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Eddie Jackson": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "A'Shawn Robinson": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Antonio Hamilton Sr.": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Eric Wilson": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "1"
+    },
+    "Siran Neal": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Neville Hewitt": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Board": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "E.J. Speed": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Quincy Williams": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tony Brown II": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Jakob Johnson": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jamal Adams": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Davon Godchaux": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "J.T. Gray": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jihad Ward": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jabrill Peppers": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Luke Gifford": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Godwin": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Troy Reeder": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Scott": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Samaje Perine": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ty Summers": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "L.J. Collier": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Germaine Pratt": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "2"
+    },
+    "Kentavius Street": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Justin Jones": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "B.J. Hill": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Bilal Nichols": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Adoree' Jackson": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Taron Johnson": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dallas Goedert": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalyn Holmes": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Malik Hooker": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sam Hubbard": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marshon Lattimore": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Raekwon McMillan": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "T.J. Edwards": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Donovan Wilson": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Kenny Clark": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaac Yiadom": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jackson Barton": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marcus Williams": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Derrick Nnadi": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Braxton Berrios": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "David Njoku": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Oshane Ximines": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Avonte Maddox": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Zaire Franklin": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Jahlani Tavai": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kaden Elliss": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Poona Ford": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Jeremy Reaves": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marlon Humphrey": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Frankie Luvu": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Budda Baker": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Greg Gaines": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jeremy McNichols": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Courtland Sutton": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Lammons": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Lorenzo Carter": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Drue Tranquill": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Levi Wallace": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kyle Peko": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kolton Miller": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Vita Vea": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marcus Epps": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "D.J. Reed": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "D'Angelo Ross": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "D'Ernest Johnson": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ben Niemann": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Lindstrom": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "KaVontae Turpin": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "James Smith-Williams": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josh Sweat": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Khalil Davis": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Donte Jackson": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Arden Key": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ashtyn Davis": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaylinn Hawkins": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jerry Tillery": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jamel Dean": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Shy Tuttle": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ugo Amadi": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jeremiah Ledbetter": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Neville Gallimore": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Anthony Nelson": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "D.J. Jones": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaire Alexander": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "2",
+        "ForcedFumble": "0"
+    },
+    "Jordan Whitehead": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mike Hughes": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Christian Rozeboom": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sam Darnold": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josiah Deguara": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Scotty Miller": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Roquan Smith": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Will Harris": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Ty Johnson": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DJ Moore": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Darnell Savage": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaiah Oliver": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jerome Baker": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DaVon Hamilton": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Denzel Ward": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Broderick Washington": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "David Long Jr.": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cam Lewis": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ka'dar Hollman": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Byron Cowart": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Carlton Davis III": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Akeem Davis-Gaither": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Robert Hunt": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Alec Ingold": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joe Giles-Harris": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Michael Jackson": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Juan Thornhill": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Logan Wilson": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Jessie Bates III": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Justin Strnad": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josh Oliver": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Minkah Fitzpatrick": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Anfernee Jennings": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Daron Payne": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Calvin Ridley": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jacob Bobenmoyer": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cody Barton": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Britain Covey": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Irvin Charles": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Westbrook-Ikhine": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kris Boyd": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DeShon Elliott": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "P.J. Locke": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Michael Dickson": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Justin Reid": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Demetrius Flannigan-Fowles": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Zayne Anderson": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sean Murphy-Bunting": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Elijah Campbell": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Diontae Johnson": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Quinton Bell": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rasul Douglas": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "David Onyemata": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "C.J. Ham": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Khalil Dorsey": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Bobby Price": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Robert Rochell": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jonah Williams": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Michael Hoecht": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jake Hansen": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sam Kamara": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Williams": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ko Kieft": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Antoine Winfield Jr.": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ben Stille": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jack Stoll": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Feleipe Franks": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "C.J. Gardner-Johnson": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kristian Fulton": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaiah Simmons": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "K'Von Wallace": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Derrick Brown": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Daniel Thomas": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Janarius Robinson": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ben Skowronek": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Julian Blackmon": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Zack Moss": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mitch Wishnowsky": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jack Jones": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Michael Pittman Jr.": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaiahh Loudermilk": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brandon Stephens": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Osa Odighizuwa": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Camryn Bynum": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Khalil Herbert": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Damar Hamlin": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Amani Hooker": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Kristian Welch": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick McCloud": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DJ Turner": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Devin Bush": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cedrick Wilson Jr.": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Darrell Baker Jr.": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Luke Masterson": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Charvarius Ward": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Travis Homer": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Shaq Quarterman": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chazz Surratt": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Divine Deablo": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Amen Ogbongbemiga": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Troy Dye": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Byron Murphy Jr.": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Taylor Rapp": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Myles Bryant": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Collin Johnson": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Elliott": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brandon Jones": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Malcolm Roach": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kylen Granson": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kyzir White": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Bryce Huff": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Alohi Gilman": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "L'Jarius Sneed": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Luke Farrell": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Fuller": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Malik Harrison": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalen Hurts": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Harrison Bryant": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Raekwon Davis": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trevon Diggs": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Richie Grant": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalen Thompson": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordyn Brooks": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jeremy Chinn": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nazeeh Johnson": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Curtis Robinson": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Khaleke Hudson": {
+        "Team": "CLE/NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josh Metellus": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Julian Love": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "1"
+    },
+    "Julian Okwara": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tanner Conner": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaylon Jones": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brenden Schooler": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Eric Johnson II": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Caleb Johnson": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "C.J. Brewer": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Grover Stewart": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nathan Shepherd": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "David Moore": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Coby Bryant": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Amik Robertson": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Hunter Long": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "A.J. Terrell": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Baylon Spector": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cam Akers": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Payton Turner": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kingsley Jonathan": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ja'Sir Taylor": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Michael Carter II": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josh Blackwell": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Victor Dimukeje": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Del'Shawn Phillips": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nate Hobbs": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Geno Stone": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tristan Wirfs": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marco Wilson": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ventrell Miller": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "T.J. Slaton": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DeeJay Dallas": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordon Riley": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cal Adomitis": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Esezi Otomewo": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jamin Davis": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joey Blount": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalen Pitre": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jacob Hummel": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Charlie Kolar": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tre Brown": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "CeeDee Lamb": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Malcolm Rodriguez": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Phidarian Mathis": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Xavier McKinney": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "3",
+        "ForcedFumble": "0"
+    },
+    "DeVonta Smith": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Daiyan Henley": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marcus Jones": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Markquese Bell": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Connor Heyward": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Baron Browning": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Pete Werner": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Montaric Brown": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kamren Curl": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Patrick Queen": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Grant Delpit": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Aaron Banks": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Elijah Hicks": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Theo Jackson": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trey Smith": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Deommodore Lenoir": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Noah Igbinoghene": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "K.J. Britt": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Paulson Adebo": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Drew Dalman": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "D.J. Davidson": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ronnie Rivers": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Mims": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mykal Walker": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Laviska Shenault Jr.": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brady Russell": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nate Landman": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marquise Blair": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaylon Johnson": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "2",
+        "ForcedFumble": "0"
+    },
+    "Devin Lloyd": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Ali Gaye": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Elijah Molden": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "J.J. Russell": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dylan Parham": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DeAngelo Malone": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Reed Blankenship": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "2",
+        "ForcedFumble": "0"
+    },
+    "Mike Brown": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Akayleb Evans": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Riq Woolen": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Christian Elliss": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tony Fields II": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Bryan Cook": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Troy Andersen": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "John Ridgeway III": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rodney Thomas II": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Quentin Lake": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Andre Jones Jr.": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mike Greene": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jack Gibbens": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jack Cochrane": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Pierre Strong Jr.": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Zyon McCollum": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Stone Smartt": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rodney Williams": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Winston Reid": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Khyiris Tonga": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Claudin Cherelus": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tycen Anderson": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Christian Braswell": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Arnold Ebiketie": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nico Collins": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josh Ross": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Benjamin St-Juste": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Peyton Hendershot": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jon Rhattigan": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jeremiah Owusu-Koramoah": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jake Tonges": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Terrel Bernard": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Malik Herring": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Robert Beal Jr.": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Eric Stokes": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Yetur Gross-Matos": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaiah Pola-Mao": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Willie Gay": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josh Paschal": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Derrick Barnes": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Segun Olubi": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Jackson": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ta'Quon Graham": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Samuel Womack III": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kader Kohou": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Jonathan Owens": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Mailata": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tavierre Thomas": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Alec Pierce": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Logan Hall": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Amari Burney": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brian Asamoah II": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Xavier Thomas": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Quan Martin": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kerby Joseph": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "2",
+        "ForcedFumble": "0"
+    },
+    "Jake Bobo": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "JuJu Brents": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trevor Denbow": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Juanyeh Thomas": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chig Okonkwo": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Thomas Booker IV": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Hampton": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Yasir Abdullah": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Talanoa Hufanga": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kana'i Mauga": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rashod Bateman": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Howden": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Colson Yankoff": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kyler Gordon": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Taki Taimani": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaiah Stalbird": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cam Taylor-Britt": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Greg Newsome II": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jamien Sherwood": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Olave": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Daniel Bellinger": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Payton Wilson": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Alim McNeill": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chad Muma": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brock Purdy": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tanner McCalister": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jarrick Bernard-Converse": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyler Lacy": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Andre Cisco": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Christian Darrisaw": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Keaontay Ingram": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joseph Ossai": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Moro Ojomo": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Keondre Coburn": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Travis Jones": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Bryce Ford-Wheaton": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Braden Fiske": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Desjuan Johnson": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tre'von Moehrig": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ar'Darius Washington": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nesta Jade Silvera": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ja'Marr Chase": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Damone Clark": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Bolton": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaycee Horn": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Ernest Jones IV": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Asante Samuel Jr.": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Beanie Bishop Jr.": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Percy Butler": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Starling Thomas V": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Myles Cole": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Josh Newton": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Julian Hill": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Daniel Hardy": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tank Dell": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joe Andreessen": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Otito Ogbonnia": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Julius Chestnut": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Smith": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Charles Woods": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mason McCormick": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rico Payton": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cam Jones": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Roger McCreary": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Pat Surtain II": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalyn Armour-Davis": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Elijah Moore": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Keidron Smith": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Christian Izien": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "1"
+    },
+    "Cory Trice Jr.": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Bobby Brown III": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyree Wilson": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaac Guerendo": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "British Brooks": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Karl Brooks": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Scott Matlock": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jevon Holland": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Jonah Laulu": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Teair Tart": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Amon-Ra St. Brown": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyson Campbell": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Smith II": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Christian Benford": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Riley Moss": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Hunter Luepke": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nate Adkins": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cobie Durant": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Khristian Boyd": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dareke Young": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dee Alford": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nolan Smith Jr.": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nakobe Dean": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mazi Smith": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DeMarvin Leal": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyrique Stevenson": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Zach Charbonnet": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jameson Williams": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nick Cross": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trent McDuffie": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Zach Harrison": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Derek Stingley Jr.": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Jarrian Jones": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaiah Foskey": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joey Porter Jr.": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dane Belton": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Keeanu Benton": {
+        "Team": "PIT",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jarvis Brownlee Jr.": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Leo Chenal": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Storm Duck": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaylen McCollough": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "AJ Finley": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Renardo Green": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cam Hart": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marist Liufau": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Darius Muasau": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Maema Njongmeta": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "De'Antre Prince": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Deonte Banks": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rashee Rice": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mike Sainristil": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "JL Skinner": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tykee Smith": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyjae Spears": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "T'Vondre Sweat": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dadrion Taylor-Demerson": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Drake Thomas": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dontayvion Wicks": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Evan Williams": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "JD Bertrand": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chris Braswell": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kelee Ringo": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Braiden McGregor": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaylen Harrell": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Clark Phillips III": {
+        "Team": "ATL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Blake Corum": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Antonio Johnson": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tommy Eichenberg": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Martin Emerson Jr.": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cor'Dale Flott": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Emmanuel Forbes Jr.": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marshawn Kneeland": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cedric Johnson": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyler Nubin": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ivan Pace Jr.": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jammie Robinson": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jer'Zhan Newton": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sean Tucker": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaxon Smith-Njigba": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Carrington Valentine": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Caelen Carson": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Junior Colson": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rome Odunze": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tuli Tuipulotu": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Calen Bullock": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Will Shipley": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Maason Smith": {
+        "Team": "JAX",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chop Robinson": {
+        "Team": "MIA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kris Jenkins Jr.": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jeremiah Trotter Jr.": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kool-Aid McKinstry": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ennis Rakestraw Jr.": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Treylon Burks": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Beaux Limmer": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Owen Pappoe": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kaiir Elam": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mohamoud Diabate": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ja'Quan McMillian": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Anfernee Orji": {
+        "Team": "NO",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jermaine Johnson": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brandin Echols": {
+        "Team": "NYJ",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Jay Ward": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyler Davis": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Garrett Williams": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dorian Williams": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Thomas Harper": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jordan Whittington": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jack Campbell": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cameron Mitchell": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Ronnie Hickman": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaquan Brisker": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "DJ Turner II": {
+        "Team": "CIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mike Morris": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyler Owens": {
+        "Team": "WSH",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tucker Kraft": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Isaiah Land": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Devon Witherspoon": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kyle Hamilton": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brandon Codrington": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Mekhi Wingo": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyreik McAllister": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Terrion Arnold": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Kamren Kinchens": {
+        "Team": "LAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaylon Carlies": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Nate Wiggins": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "1"
+    },
+    "Kamari Lassiter": {
+        "Team": "HOU",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "D'Anthony Bell": {
+        "Team": "CLE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Cole Bishop": {
+        "Team": "BUF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Xavier Worthy": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Austin Booker": {
+        "Team": "CHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Trevin Wallace": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaden Hicks": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "2",
+        "ForcedFumble": "0"
+    },
+    "Jalen Carter": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Quinyon Mitchell": {
+        "Team": "PHI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Yaya Diaby": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyrice Knight": {
+        "Team": "SEA",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Christian Gonzalez": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jakorian Bennett": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Javon Bullard": {
+        "Team": "GB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tyrus Wheat": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Art Green": {
+        "Team": "NYG",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Deane Leonard": {
+        "Team": "LAC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Tavius Robinson": {
+        "Team": "BAL",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Brian Branch": {
+        "Team": "DET",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jalen Brooks": {
+        "Team": "DAL",
+        "Sack": "0.0",
+        "Int": "1",
+        "ForcedFumble": "0"
+    },
+    "Ji'Ayir Brown": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Malik Mustapha": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Chau Smith-Wade": {
+        "Team": "CAR",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaylen Watson": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Rachaad White": {
+        "Team": "TB",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Max Melton": {
+        "Team": "ARI",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Sam Webb": {
+        "Team": "LV",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jaleel McLaughlin": {
+        "Team": "DEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Drew Ogletree": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Marcellas Dial Jr.": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Bo Richter": {
+        "Team": "MIN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Caleb Murphy": {
+        "Team": "TEN",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dallis Flowers": {
+        "Team": "IND",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Joshua Williams": {
+        "Team": "KC",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Jeremiah Pharms Jr.": {
+        "Team": "NE",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    },
+    "Dominick Puni": {
+        "Team": "SF",
+        "Sack": "0.0",
+        "Int": "0",
+        "ForcedFumble": "0"
+    }
+}

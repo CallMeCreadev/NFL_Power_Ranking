@@ -200,14 +200,14 @@ def calculate_true_power_rank(power_ranks, points_power_ranks, team_stat_ratios)
             additional_stats = team_stat_ratios[team]
             # Combine all the stats into a single true power rank by averaging
             combined_rank = (
-                1.75*yards_power_rank +
-                1.75*points_power_rank +
-                1.25*additional_stats.get('Defensive_Stat', 0) +
+                yards_power_rank +
+                points_power_rank +
+                additional_stats.get('Defensive_Stat', 0) +
                 additional_stats.get('BigPlay', 0) +
                 additional_stats.get('Fumble', 0) +
-                1.25*additional_stats.get('QB_combined_stat', 0) +
-                1.25*additional_stats.get('Run_game_stat', 0)
-            ) / 9.25
+                additional_stats.get('QB_combined_stat', 0) +
+                additional_stats.get('Run_game_stat', 0)
+            ) / 7.0
             true_power_rank[team] = combined_rank
         else:
             true_power_rank[team] = (yards_power_rank + points_power_rank) / 2.0
