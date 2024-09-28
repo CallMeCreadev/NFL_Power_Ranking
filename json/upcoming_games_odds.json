@@ -1,0 +1,98 @@
+[
+    {
+        "team1": "Saints",
+        "odds1": "NO +130",
+        "team2": "Falcons",
+        "odds2": "ATL -155"
+    },
+    {
+        "team1": "Jaguars",
+        "odds1": "JAX +220",
+        "team2": "Texans",
+        "odds2": "HOU -275"
+    },
+    {
+        "team1": "Bengals",
+        "odds1": "CIN -225",
+        "team2": "Panthers",
+        "odds2": "CAR +185"
+    },
+    {
+        "team1": "Eagles",
+        "odds1": "PHI -120",
+        "team2": "Buccaneers",
+        "odds2": "TB +100"
+    },
+    {
+        "team1": "Broncos",
+        "odds1": "DEN +320",
+        "team2": "Jets",
+        "odds2": "NYJ -400"
+    },
+    {
+        "team1": "Steelers",
+        "odds1": "PIT -135",
+        "team2": "Colts",
+        "odds2": "IND +115"
+    },
+    {
+        "team1": "Vikings",
+        "odds1": "MIN +125",
+        "team2": "Packers",
+        "odds2": "GB -150"
+    },
+    {
+        "team1": "Rams",
+        "odds1": "LAR +135",
+        "team2": "Bears",
+        "odds2": "CHI -160"
+    },
+    {
+        "team1": "Commanders",
+        "odds1": "WAS +150",
+        "team2": "Cardinals",
+        "odds2": "ARI -185"
+    },
+    {
+        "team1": "Patriots",
+        "odds1": "NE +425",
+        "team2": "49ers",
+        "odds2": "SF -600"
+    },
+    {
+        "team1": "Browns",
+        "odds1": "CLE -135",
+        "team2": "Raiders",
+        "odds2": "LV +115"
+    },
+    {
+        "team1": "Chiefs",
+        "odds1": "KC -350",
+        "team2": "Chargers",
+        "odds2": "LAC +280"
+    },
+    {
+        "team1": "Bills",
+        "odds1": "BUF +110",
+        "team2": "Ravens",
+        "odds2": "BAL -130"
+    },
+    {
+        "team1": "Titans",
+        "odds1": "TEN +105",
+        "team2": "Dolphins",
+        "odds2": "MIA -125"
+    },
+    {
+        "team1": "Seahawks",
+        "odds1": "SEA +155",
+        "team2": "Lions",
+        "odds2": "DET -190"
+    },
+    {
+        "team1": "Cowboys",
+        "odds1": "DAL -250",
+        "team2": "Giants",
+        "odds2": "NYG +200"
+    }
+]

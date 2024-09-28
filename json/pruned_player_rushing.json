@@ -59,12 +59,6 @@
         "BigPlay": "2",
         "Fumble": "0"
     },
-    "Tua Tagovailoa": {
-        "Team": "MIA",
-        "RushAVG": "9.3",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "DeMario Douglas": {
         "Team": "NE",
         "RushAVG": "9.0",
@@ -113,35 +107,11 @@
         "BigPlay": "0",
         "Fumble": "0"
     },
-    "Chris Olave": {
-        "Team": "NO",
-        "RushAVG": "7.0",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Tank Dell": {
-        "Team": "HOU",
-        "RushAVG": "7.0",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "Jameson Williams": {
         "Team": "DET",
         "RushAVG": "7.0",
         "BigPlay": "0",
         "Fumble": "0"
-    },
-    "Puka Nacua": {
-        "Team": "LAR",
-        "RushAVG": "7.0",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Audric Estime": {
-        "Team": "DEN",
-        "RushAVG": "7.0",
-        "BigPlay": "0",
-        "Fumble": "1"
     },
     "Baker Mayfield": {
         "Team": "TB",
@@ -161,12 +131,6 @@
         "BigPlay": "1",
         "Fumble": "2"
     },
-    "Austin Ekeler": {
-        "Team": "WSH",
-        "RushAVG": "6.4",
-        "BigPlay": "1",
-        "Fumble": "0"
-    },
     "Ronnie Rivers": {
         "Team": "LAR",
         "RushAVG": "6.3",
@@ -177,12 +141,6 @@
         "Team": "NE",
         "RushAVG": "6.2",
         "BigPlay": "1",
-        "Fumble": "0"
-    },
-    "Bucky Irving": {
-        "Team": "TB",
-        "RushAVG": "6.2",
-        "BigPlay": "2",
         "Fumble": "0"
     },
     "Caleb Williams": {
@@ -233,12 +191,6 @@
         "BigPlay": "0",
         "Fumble": "0"
     },
-    "Derius Davis": {
-        "Team": "LAC",
-        "RushAVG": "5.7",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "Zay Flowers": {
         "Team": "BAL",
         "RushAVG": "5.7",
@@ -281,18 +233,6 @@
         "BigPlay": "0",
         "Fumble": "0"
     },
-    "Travis Homer": {
-        "Team": "CHI",
-        "RushAVG": "5.3",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Dameon Pierce": {
-        "Team": "HOU",
-        "RushAVG": "5.3",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "Chuba Hubbard": {
         "Team": "CAR",
         "RushAVG": "5.2",
@@ -303,12 +243,6 @@
         "Team": "DET",
         "RushAVG": "5.2",
         "BigPlay": "2",
-        "Fumble": "0"
-    },
-    "Kenneth Walker III": {
-        "Team": "SEA",
-        "RushAVG": "5.2",
-        "BigPlay": "1",
         "Fumble": "0"
     },
     "Jonathan Taylor": {
@@ -327,12 +261,6 @@
         "Team": "BAL",
         "RushAVG": "5.0",
         "BigPlay": "3",
-        "Fumble": "0"
-    },
-    "Cooper Kupp": {
-        "Team": "LAR",
-        "RushAVG": "5.0",
-        "BigPlay": "0",
         "Fumble": "0"
     },
     "Jeff Wilson Jr.": {
@@ -382,18 +310,6 @@
         "RushAVG": "4.8",
         "BigPlay": "2",
         "Fumble": "1"
-    },
-    "Joe Mixon": {
-        "Team": "HOU",
-        "RushAVG": "4.7",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Alvin Kamara": {
-        "Team": "NO",
-        "RushAVG": "4.7",
-        "BigPlay": "0",
-        "Fumble": "0"
     },
     "James Cook": {
         "Team": "BUF",
@@ -515,12 +431,6 @@
         "BigPlay": "0",
         "Fumble": "0"
     },
-    "Skylar Thompson": {
-        "Team": "MIA",
-        "RushAVG": "4.0",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "Greg Dortch": {
         "Team": "ARI",
         "RushAVG": "4.0",
@@ -557,12 +467,6 @@
         "BigPlay": "0",
         "Fumble": "0"
     },
-    "Isiah Pacheco": {
-        "Team": "KC",
-        "RushAVG": "4.0",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "Devin Singletary": {
         "Team": "NYG",
         "RushAVG": "3.9",
@@ -571,12 +475,6 @@
     },
     "Rico Dowdle": {
         "Team": "DAL",
-        "RushAVG": "3.9",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Jaylen Warren": {
-        "Team": "PIT",
         "RushAVG": "3.9",
         "BigPlay": "0",
         "Fumble": "0"
@@ -827,12 +725,6 @@
         "BigPlay": "0",
         "Fumble": "1"
     },
-    "MarShawn Lloyd": {
-        "Team": "GB",
-        "RushAVG": "2.5",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "Tyrone Tracy Jr.": {
         "Team": "NYG",
         "RushAVG": "2.4",
@@ -847,12 +739,6 @@
     },
     "Jaleel McLaughlin": {
         "Team": "DEN",
-        "RushAVG": "2.2",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Justin Herbert": {
-        "Team": "LAC",
         "RushAVG": "2.2",
         "BigPlay": "0",
         "Fumble": "0"
@@ -929,23 +815,11 @@
         "BigPlay": "0",
         "Fumble": "0"
     },
-    "Pierre Strong Jr.": {
-        "Team": "CLE",
-        "RushAVG": "1.7",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "Alec Ingold": {
         "Team": "MIA",
         "RushAVG": "1.6",
         "BigPlay": "0",
         "Fumble": "1"
-    },
-    "Raheem Mostert": {
-        "Team": "MIA",
-        "RushAVG": "1.5",
-        "BigPlay": "0",
-        "Fumble": "0"
     },
     "Dare Ogunbowale": {
         "Team": "HOU",
@@ -956,12 +830,6 @@
     "KaVontae Turpin": {
         "Team": "DAL",
         "RushAVG": "1.5",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Deebo Samuel Sr.": {
-        "Team": "SF",
-        "RushAVG": "1.3",
         "BigPlay": "0",
         "Fumble": "0"
     },
@@ -1007,12 +875,6 @@
         "BigPlay": "0",
         "Fumble": "0"
     },
-    "Ameer Abdullah": {
-        "Team": "LV",
-        "RushAVG": "0.5",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
     "Treylon Burks": {
         "Team": "TEN",
         "RushAVG": "0.5",
@@ -1033,18 +895,6 @@
     },
     "Ja'Lynn Polk": {
         "Team": "NE",
-        "RushAVG": "0.0",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Malik Nabers": {
-        "Team": "NYG",
-        "RushAVG": "0.0",
-        "BigPlay": "0",
-        "Fumble": "0"
-    },
-    "Kameron Johnson": {
-        "Team": "TB",
         "RushAVG": "0.0",
         "BigPlay": "0",
         "Fumble": "0"

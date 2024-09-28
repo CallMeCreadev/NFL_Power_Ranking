@@ -17,12 +17,6 @@
         "Fumble": "1",
         "YAC": "158"
     },
-    "Malik Nabers": {
-        "Team": "NYG",
-        "BigPlay": "7",
-        "Fumble": "0",
-        "YAC": "156"
-    },
     "CeeDee Lamb": {
         "Team": "DAL",
         "BigPlay": "4",
@@ -40,18 +34,6 @@
         "BigPlay": "2",
         "Fumble": "0",
         "YAC": "138"
-    },
-    "Austin Ekeler": {
-        "Team": "WSH",
-        "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "136"
-    },
-    "Alvin Kamara": {
-        "Team": "NO",
-        "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "128"
     },
     "Bijan Robinson": {
         "Team": "ATL",
@@ -161,12 +143,6 @@
         "Fumble": "0",
         "YAC": "88"
     },
-    "Isiah Pacheco": {
-        "Team": "KC",
-        "BigPlay": "1",
-        "Fumble": "0",
-        "YAC": "82"
-    },
     "Javonte Williams": {
         "Team": "DEN",
         "BigPlay": "0",
@@ -208,12 +184,6 @@
         "BigPlay": "4",
         "Fumble": "0",
         "YAC": "79"
-    },
-    "DeVonta Smith": {
-        "Team": "PHI",
-        "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "77"
     },
     "Mike Gesicki": {
         "Team": "CIN",
@@ -287,20 +257,8 @@
         "Fumble": "0",
         "YAC": "67"
     },
-    "Cooper Kupp": {
-        "Team": "LAR",
-        "BigPlay": "3",
-        "Fumble": "0",
-        "YAC": "65"
-    },
     "Rashid Shaheed": {
         "Team": "NO",
-        "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "65"
-    },
-    "A.J. Brown": {
-        "Team": "PHI",
         "BigPlay": "2",
         "Fumble": "0",
         "YAC": "65"
@@ -328,12 +286,6 @@
         "BigPlay": "1",
         "Fumble": "0",
         "YAC": "64"
-    },
-    "Diontae Johnson": {
-        "Team": "CAR",
-        "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "62"
     },
     "Zack Moss": {
         "Team": "CIN",
@@ -407,12 +359,6 @@
         "Fumble": "0",
         "YAC": "54"
     },
-    "Deebo Samuel Sr.": {
-        "Team": "SF",
-        "BigPlay": "3",
-        "Fumble": "0",
-        "YAC": "54"
-    },
     "Kyren Williams": {
         "Team": "LAR",
         "BigPlay": "0",
@@ -455,12 +401,6 @@
         "Fumble": "0",
         "YAC": "52"
     },
-    "Joe Mixon": {
-        "Team": "HOU",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "51"
-    },
     "Jordan Whittington": {
         "Team": "LAR",
         "BigPlay": "1",
@@ -491,12 +431,6 @@
         "Fumble": "0",
         "YAC": "46"
     },
-    "Davante Adams": {
-        "Team": "LV",
-        "BigPlay": "4",
-        "Fumble": "0",
-        "YAC": "45"
-    },
     "Dare Ogunbowale": {
         "Team": "HOU",
         "BigPlay": "0",
@@ -515,12 +449,6 @@
         "Fumble": "0",
         "YAC": "44"
     },
-    "Trey McBride": {
-        "Team": "ARI",
-        "BigPlay": "1",
-        "Fumble": "0",
-        "YAC": "44"
-    },
     "Ashton Dulin": {
         "Team": "IND",
         "BigPlay": "1",
@@ -535,12 +463,6 @@
     },
     "Jordan Akins": {
         "Team": "CLE",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "41"
-    },
-    "Noah Fant": {
-        "Team": "SEA",
         "BigPlay": "0",
         "Fumble": "0",
         "YAC": "41"
@@ -587,12 +509,6 @@
         "Fumble": "1",
         "YAC": "39"
     },
-    "Chris Olave": {
-        "Team": "NO",
-        "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "38"
-    },
     "Sam LaPorta": {
         "Team": "DET",
         "BigPlay": "1",
@@ -626,12 +542,6 @@
     "Luke McCaffrey": {
         "Team": "WSH",
         "BigPlay": "1",
-        "Fumble": "0",
-        "YAC": "37"
-    },
-    "Bucky Irving": {
-        "Team": "TB",
-        "BigPlay": "0",
         "Fumble": "0",
         "YAC": "37"
     },
@@ -683,12 +593,6 @@
         "Fumble": "0",
         "YAC": "34"
     },
-    "Jaylen Warren": {
-        "Team": "PIT",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "34"
-    },
     "Tyler Boyd": {
         "Team": "TEN",
         "BigPlay": "1",
@@ -700,18 +604,6 @@
         "BigPlay": "0",
         "Fumble": "0",
         "YAC": "33"
-    },
-    "Tank Dell": {
-        "Team": "HOU",
-        "BigPlay": "1",
-        "Fumble": "0",
-        "YAC": "33"
-    },
-    "Ameer Abdullah": {
-        "Team": "LV",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "32"
     },
     "DeAndre Carter": {
         "Team": "CHI",
@@ -779,29 +671,11 @@
         "Fumble": "0",
         "YAC": "29"
     },
-    "Pierre Strong Jr.": {
-        "Team": "CLE",
-        "BigPlay": "1",
-        "Fumble": "0",
-        "YAC": "29"
-    },
     "Jaleel McLaughlin": {
         "Team": "DEN",
         "BigPlay": "0",
         "Fumble": "1",
         "YAC": "29"
-    },
-    "David Njoku": {
-        "Team": "CLE",
-        "BigPlay": "1",
-        "Fumble": "0",
-        "YAC": "28"
-    },
-    "Britain Covey": {
-        "Team": "PHI",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "28"
     },
     "Ty Chandler": {
         "Team": "MIN",
@@ -862,18 +736,6 @@
         "BigPlay": "1",
         "Fumble": "0",
         "YAC": "26"
-    },
-    "Adam Thielen": {
-        "Team": "CAR",
-        "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "25"
-    },
-    "Gabe Davis": {
-        "Team": "JAX",
-        "BigPlay": "4",
-        "Fumble": "0",
-        "YAC": "25"
     },
     "Emari Demercado": {
         "Team": "ARI",
@@ -1091,12 +953,6 @@
         "Fumble": "0",
         "YAC": "18"
     },
-    "Raheem Mostert": {
-        "Team": "MIA",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "17"
-    },
     "Dee Eskridge": {
         "Team": "MIA",
         "BigPlay": "1",
@@ -1118,12 +974,6 @@
     "Michael Wilson": {
         "Team": "ARI",
         "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "17"
-    },
-    "Puka Nacua": {
-        "Team": "LAR",
-        "BigPlay": "0",
         "Fumble": "0",
         "YAC": "17"
     },
@@ -1175,12 +1025,6 @@
         "Fumble": "0",
         "YAC": "16"
     },
-    "Keenan Allen": {
-        "Team": "CHI",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "15"
-    },
     "Jamaal Williams": {
         "Team": "NO",
         "BigPlay": "0",
@@ -1208,12 +1052,6 @@
     "Brenton Strange": {
         "Team": "JAX",
         "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "15"
-    },
-    "Kenneth Walker III": {
-        "Team": "SEA",
-        "BigPlay": "0",
         "Fumble": "0",
         "YAC": "15"
     },
@@ -1367,12 +1205,6 @@
         "Fumble": "0",
         "YAC": "10"
     },
-    "Tanner Hudson": {
-        "Team": "CIN",
-        "BigPlay": "0",
-        "Fumble": "1",
-        "YAC": "10"
-    },
     "Foster Moreau": {
         "Team": "NO",
         "BigPlay": "1",
@@ -1381,12 +1213,6 @@
     },
     "Adam Trautman": {
         "Team": "DEN",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "10"
-    },
-    "Cedrick Wilson Jr.": {
-        "Team": "NO",
         "BigPlay": "0",
         "Fumble": "0",
         "YAC": "10"
@@ -1421,12 +1247,6 @@
         "Fumble": "0",
         "YAC": "9"
     },
-    "Jamison Crowder": {
-        "Team": "WSH",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "8"
-    },
     "Tee Higgins": {
         "Team": "CIN",
         "BigPlay": "0",
@@ -1435,30 +1255,6 @@
     },
     "Dontayvion Wicks": {
         "Team": "GB",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "8"
-    },
-    "MarShawn Lloyd": {
-        "Team": "GB",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "8"
-    },
-    "Michael Mayer": {
-        "Team": "LV",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "8"
-    },
-    "Jalen McMillan": {
-        "Team": "TB",
-        "BigPlay": "2",
-        "Fumble": "0",
-        "YAC": "8"
-    },
-    "David Bell": {
-        "Team": "CLE",
         "BigPlay": "0",
         "Fumble": "0",
         "YAC": "8"
@@ -1589,12 +1385,6 @@
         "Fumble": "0",
         "YAC": "6"
     },
-    "Pharaoh Brown": {
-        "Team": "SEA",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "5"
-    },
     "Brandon Powell": {
         "Team": "MIN",
         "BigPlay": "0",
@@ -1685,12 +1475,6 @@
         "Fumble": "0",
         "YAC": "3"
     },
-    "Brevin Jordan": {
-        "Team": "HOU",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "3"
-    },
     "Tyquan Thornton": {
         "Team": "NE",
         "BigPlay": "0",
@@ -1733,12 +1517,6 @@
         "Fumble": "0",
         "YAC": "2"
     },
-    "MyCole Pruitt": {
-        "Team": "PIT",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "1"
-    },
     "Michael Burton": {
         "Team": "DEN",
         "BigPlay": "0",
@@ -1747,12 +1525,6 @@
     },
     "Robbie Chosen": {
         "Team": "MIA",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "1"
-    },
-    "Evan Engram": {
-        "Team": "JAX",
         "BigPlay": "0",
         "Fumble": "0",
         "YAC": "1"
@@ -1913,12 +1685,6 @@
         "Fumble": "0",
         "YAC": "0"
     },
-    "Davis Allen": {
-        "Team": "LAR",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "0"
-    },
     "Bub Means": {
         "Team": "NO",
         "BigPlay": "0",
@@ -1963,12 +1729,6 @@
     },
     "Jalin Hyatt": {
         "Team": "NYG",
-        "BigPlay": "0",
-        "Fumble": "0",
-        "YAC": "0"
-    },
-    "Grant DuBose": {
-        "Team": "MIA",
         "BigPlay": "0",
         "Fumble": "0",
         "YAC": "0"

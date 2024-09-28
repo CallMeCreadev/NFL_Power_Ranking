@@ -12,12 +12,22 @@ def normalize_name(name):
     return re.sub(r'\W+', '', name).lower()
 
 # Function to find a matching team name in a dictionary using a normalized name
-def find_team_name(team_name, reference_dict):
+def find_team_name(team_name, reference):
     normalized_name = normalize_name(team_name)
-    for key in reference_dict.keys():
-        if normalized_name in normalize_name(key):
-            return key
+
+    # If the reference is a list of dictionaries
+    if isinstance(reference, list):
+        for item in reference:
+            if isinstance(item, dict) and 'team' in item:
+                if normalized_name in normalize_name(item['team']):
+                    return item  # Return the matching dictionary
+    # If the reference is a dictionary
+    elif isinstance(reference, dict):
+        for key in reference.keys():
+            if normalized_name in normalize_name(key):
+                return key  # Return the matching key
     return None
+
 
 # Function to convert dictionary values to float
 def convert_dict_values_to_float(d):
@@ -188,29 +198,37 @@ def calculate_power_rank(offense_calibrated, weak_defense_calibrated, points_ear
     return sorted_power_ranks, sorted_points_power_ranks
 
 # Function to calculate the true power rank by incorporating all stats
-def calculate_true_power_rank(power_ranks, points_power_ranks, team_stat_ratios):
+def calculate_true_power_rank(power_ranks, points_power_ranks, team_stat_ratios, team_penalty_stats):
     true_power_rank = {}
 
     for team, yards_power_rank in power_ranks.items():
-        if team == "San Francisco 49ers":
-            team = "San Francisco 49Ers"
-        points_power_rank = points_power_ranks.get(team)
+        # Find the matching penalty stat for the current team
+        penalty_stat = 0.0
+        penalty_stat_entry = find_team_name(team, team_penalty_stats)
+        if penalty_stat_entry and 'normalized_value' in penalty_stat_entry:
+            penalty_stat = penalty_stat_entry['normalized_value']
+
+        # Retrieve points power rank, set default to 0.0 if not found
+        points_power_rank = points_power_ranks.get(team, 0.0)
+
         # Retrieve additional stats from team_stat_ratios
         if team in team_stat_ratios:
             additional_stats = team_stat_ratios[team]
             # Combine all the stats into a single true power rank by averaging
             combined_rank = (
-                yards_power_rank +
-                points_power_rank +
-                additional_stats.get('Defensive_Stat', 0) +
-                additional_stats.get('BigPlay', 0) +
-                additional_stats.get('Fumble', 0) +
-                additional_stats.get('QB_combined_stat', 0) +
-                additional_stats.get('Run_game_stat', 0)
-            ) / 7.0
+                                    .66 * yards_power_rank +
+                                    .66 * points_power_rank +
+                                    .66 * penalty_stat +  # Include the normalized penalty stat
+                                    additional_stats.get('Defensive_Stat', 0.0) +
+                                    additional_stats.get('BigPlay', 0.0) +
+                                    additional_stats.get('Fumble', 0.0) +
+                                    additional_stats.get('QB_combined_stat', 0.0) +
+                                    additional_stats.get('Run_game_stat', 0.0)
+                            ) / 8.0  # Adjust the divisor based on the number of stats included
             true_power_rank[team] = combined_rank
         else:
-            true_power_rank[team] = (yards_power_rank + points_power_rank) / 2.0
+            # Default to average of available stats
+            true_power_rank[team] = (yards_power_rank + points_power_rank + penalty_stat) / 3.0
 
     # Sort the power ranks in descending order
     sorted_true_power_ranks = dict(sorted(true_power_rank.items(), key=lambda x: x[1], reverse=True))
@@ -257,6 +275,7 @@ def group_power_ranks_by_division(power_ranks):
     return grouped_power_ranks
 
 # Main function to load data and calculate calibrated values
+# Main function to load data and calculate calibrated values
 if __name__ == "__main__":
     # Load data from JSON files
     opponents_dict = load_from_file("json/OpponentsByTeam.json")
@@ -266,6 +285,8 @@ if __name__ == "__main__":
 
     # Load the final team stats dictionary with ratios
     team_stat_ratios = load_from_file("json/team_stat_ratios.json")  # Make sure to adjust this to the correct filename/path
+
+    team_penalty_stats = load_from_file("json/normalized_penalty_yards.json")
 
     # Convert offense and defense values to floats
     convert_dict_values_to_float(offense_dict)
@@ -292,7 +313,7 @@ if __name__ == "__main__":
     )
 
     # Calculate the true power rank including all stats from team_stat_ratios
-    true_power_ranks = calculate_true_power_rank(power_ranks, points_power_ranks, team_stat_ratios)
+    true_power_ranks = calculate_true_power_rank(power_ranks, points_power_ranks, team_stat_ratios, team_penalty_stats)
 
     # Group power ranks by division
     grouped_power_ranks = group_power_ranks_by_division(true_power_ranks)
@@ -307,3 +328,9 @@ if __name__ == "__main__":
     print("\nOverall True Power Ranks:")
     for team, score in sorted(true_power_ranks.items(), key=lambda item: item[1], reverse=True):
         print(f"{team:25} {score:.2f}")
+
+    # Save the true power ranks to a JSON file
+    with open('json/unweighted_power_ranking.json', 'w') as outfile:
+        json.dump(true_power_ranks, outfile, indent=4)
+    print("\nTrue power ranks saved to unweighted_power_ranking.json")
+

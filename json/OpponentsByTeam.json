@@ -117,7 +117,8 @@
     "New York Giants": [
         "Vikings",
         "Commanders",
-        "Browns"
+        "Browns",
+        "Cowboys"
     ],
     "Tennessee Titans": [
         "Bears",
@@ -157,6 +158,7 @@
     "Dallas Cowboys": [
         "Browns",
         "Saints",
-        "Ravens"
+        "Ravens",
+        "Giants"
     ]
 }

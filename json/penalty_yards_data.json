@@ -1,0 +1,130 @@
+[
+    {
+        "team": "Baltimore",
+        "net_yards": "-174"
+    },
+    {
+        "team": "Kansas City",
+        "net_yards": "37"
+    },
+    {
+        "team": "Philadelphia",
+        "net_yards": "-19"
+    },
+    {
+        "team": "Green Bay",
+        "net_yards": "-104"
+    },
+    {
+        "team": "Pittsburgh",
+        "net_yards": "74"
+    },
+    {
+        "team": "Atlanta",
+        "net_yards": "56"
+    },
+    {
+        "team": "Buffalo",
+        "net_yards": "9"
+    },
+    {
+        "team": "Arizona",
+        "net_yards": "41"
+    },
+    {
+        "team": "Tennessee",
+        "net_yards": "90"
+    },
+    {
+        "team": "Chicago",
+        "net_yards": "103"
+    },
+    {
+        "team": "New England",
+        "net_yards": "14"
+    },
+    {
+        "team": "Cincinnati",
+        "net_yards": "7"
+    },
+    {
+        "team": "Houston",
+        "net_yards": "-123"
+    },
+    {
+        "team": "Indianapolis",
+        "net_yards": "-13"
+    },
+    {
+        "team": "Miami",
+        "net_yards": "-70"
+    },
+    {
+        "team": "Jacksonville",
+        "net_yards": "82"
+    },
+    {
+        "team": "New Orleans",
+        "net_yards": "-9"
+    },
+    {
+        "team": "Carolina",
+        "net_yards": "-57"
+    },
+    {
+        "team": "N.Y. Giants",
+        "net_yards": "-3"
+    },
+    {
+        "team": "Minnesota",
+        "net_yards": "67"
+    },
+    {
+        "team": "LA Chargers",
+        "net_yards": "-14"
+    },
+    {
+        "team": "Las Vegas",
+        "net_yards": "126"
+    },
+    {
+        "team": "Denver",
+        "net_yards": "-97"
+    },
+    {
+        "team": "Seattle",
+        "net_yards": "4"
+    },
+    {
+        "team": "Dallas",
+        "net_yards": "54"
+    },
+    {
+        "team": "Cleveland",
+        "net_yards": "-7"
+    },
+    {
+        "team": "Washington",
+        "net_yards": "-66"
+    },
+    {
+        "team": "Tampa Bay",
+        "net_yards": "73"
+    },
+    {
+        "team": "LA Rams",
+        "net_yards": "84"
+    },
+    {
+        "team": "Detroit",
+        "net_yards": "-91"
+    },
+    {
+        "team": "San Francisco",
+        "net_yards": "-43"
+    },
+    {
+        "team": "N.Y. Jets",
+        "net_yards": "-31"
+    }
+]

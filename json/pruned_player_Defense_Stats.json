@@ -47,12 +47,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "DeMarcus Lawrence": {
-        "Team": "DAL",
-        "Sack": "3.0",
-        "Int": "0",
-        "ForcedFumble": "1"
-    },
     "T.J. Watt": {
         "Team": "PIT",
         "Sack": "3.0",
@@ -77,12 +71,6 @@
         "Int": "1",
         "ForcedFumble": "0"
     },
-    "Maxx Crosby": {
-        "Team": "LV",
-        "Sack": "3.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Carl Granderson": {
         "Team": "NO",
         "Sack": "3.0",
@@ -103,12 +91,6 @@
     },
     "Jason Pinnock": {
         "Team": "NYG",
-        "Sack": "3.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Boye Mafe": {
-        "Team": "SEA",
         "Sack": "3.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -191,12 +173,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Joey Bosa": {
-        "Team": "LAC",
-        "Sack": "2.0",
-        "Int": "0",
-        "ForcedFumble": "1"
-    },
     "Derek Barnett": {
         "Team": "HOU",
         "Sack": "2.0",
@@ -208,12 +184,6 @@
         "Sack": "2.0",
         "Int": "0",
         "ForcedFumble": "2"
-    },
-    "Clelin Ferrell": {
-        "Team": "WSH",
-        "Sack": "2.0",
-        "Int": "0",
-        "ForcedFumble": "0"
     },
     "Zach Allen": {
         "Team": "DEN",
@@ -287,18 +257,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "DeForest Buckner": {
-        "Team": "IND",
-        "Sack": "1.5",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Leonard Williams": {
-        "Team": "SEA",
-        "Sack": "1.5",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Danielle Hunter": {
         "Team": "HOU",
         "Sack": "1.5",
@@ -335,12 +293,6 @@
         "Int": "0",
         "ForcedFumble": "1"
     },
-    "Kwity Paye": {
-        "Team": "IND",
-        "Sack": "1.5",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Kingsley Enagbare": {
         "Team": "GB",
         "Sack": "1.5",
@@ -365,12 +317,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Demario Davis": {
-        "Team": "NO",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Jadeveon Clowney": {
         "Team": "CAR",
         "Sack": "1.0",
@@ -379,12 +325,6 @@
     },
     "Mike Pennel Jr.": {
         "Team": "KC",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Jordan Hicks": {
-        "Team": "CLE",
         "Sack": "1.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -425,12 +365,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Javon Hargrave": {
-        "Team": "SF",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Elandon Roberts": {
         "Team": "PIT",
         "Sack": "1.0",
@@ -439,12 +373,6 @@
     },
     "Maliek Collins": {
         "Team": "SF",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Tyquan Lewis": {
-        "Team": "IND",
         "Sack": "1.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -461,12 +389,6 @@
         "Int": "0",
         "ForcedFumble": "1"
     },
-    "Folorunso Fatukasi": {
-        "Team": "HOU",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Chuck Clark": {
         "Team": "NYJ",
         "Sack": "1.0",
@@ -475,12 +397,6 @@
     },
     "Sebastian Joseph-Day": {
         "Team": "TEN",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Foyesade Oluokun": {
-        "Team": "JAX",
         "Sack": "1.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -599,18 +515,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Tyrel Dodson": {
-        "Team": "SEA",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "1"
-    },
-    "Jeffery Simmons": {
-        "Team": "TEN",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Brian Burns": {
         "Team": "NYG",
         "Sack": "1.0",
@@ -625,12 +529,6 @@
     },
     "Chauncey Golston": {
         "Team": "DAL",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Alex Highsmith": {
-        "Team": "PIT",
         "Sack": "1.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -773,12 +671,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Micah Parsons": {
-        "Team": "DAL",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Chamarri Conner": {
         "Team": "KC",
         "Sack": "1.0",
@@ -887,12 +779,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Dru Phillips": {
-        "Team": "NYG",
-        "Sack": "1.0",
-        "Int": "0",
-        "ForcedFumble": "1"
-    },
     "Dallas Turner": {
         "Team": "MIN",
         "Sack": "1.0",
@@ -965,18 +851,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Ja'Whaun Bentley": {
-        "Team": "NE",
-        "Sack": "0.5",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Marcus Davenport": {
-        "Team": "DET",
-        "Sack": "0.5",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Takk McKinley": {
         "Team": "NYJ",
         "Sack": "0.5",
@@ -985,12 +859,6 @@
     },
     "Christian Wilkins": {
         "Team": "LV",
-        "Sack": "0.5",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Mike Danna": {
-        "Team": "KC",
         "Sack": "0.5",
         "Int": "0",
         "ForcedFumble": "0"
@@ -1012,12 +880,6 @@
         "Sack": "0.5",
         "Int": "0",
         "ForcedFumble": "1"
-    },
-    "Kenny Moore II": {
-        "Team": "IND",
-        "Sack": "0.5",
-        "Int": "0",
-        "ForcedFumble": "0"
     },
     "Isaiah McDuffie": {
         "Team": "GB",
@@ -1085,20 +947,8 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Byron Murphy II": {
-        "Team": "SEA",
-        "Sack": "0.5",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Brandon Graham": {
         "Team": "PHI",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Trent Williams": {
-        "Team": "SF",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -1169,12 +1019,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Johnathan Hankins": {
-        "Team": "SEA",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "John Jenkins": {
         "Team": "LV",
         "Sack": "0.0",
@@ -1205,38 +1049,14 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Adam Thielen": {
-        "Team": "CAR",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "James Winchester": {
         "Team": "KC",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Jimmie Ward": {
-        "Team": "HOU",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "C.J. Mosley": {
-        "Team": "NYJ",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Mike Evans": {
         "Team": "TB",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Davante Adams": {
-        "Team": "LV",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -1265,12 +1085,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "MyCole Pruitt": {
-        "Team": "PIT",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Michael Burton": {
         "Team": "DEN",
         "Sack": "0.0",
@@ -1285,12 +1099,6 @@
     },
     "Chris Manhertz": {
         "Team": "NYG",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Kevin Byard III": {
-        "Team": "CHI",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -1319,12 +1127,6 @@
         "Int": "0",
         "ForcedFumble": "1"
     },
-    "Ameer Abdullah": {
-        "Team": "LV",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "DeShawn Williams": {
         "Team": "CAR",
         "Sack": "0.0",
@@ -1338,12 +1140,6 @@
         "ForcedFumble": "0"
     },
     "Dak Prescott": {
-        "Team": "DAL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Jordan Phillips": {
         "Team": "DAL",
         "Sack": "0.0",
         "Int": "0",
@@ -1365,12 +1161,6 @@
         "Team": "SF",
         "Sack": "0.0",
         "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Alex Singleton": {
-        "Team": "DEN",
-        "Sack": "0.0",
-        "Int": "1",
         "ForcedFumble": "0"
     },
     "Justin Simmons": {
@@ -1397,23 +1187,11 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Sheldon Rankins": {
-        "Team": "CIN",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Eric Murray": {
         "Team": "HOU",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
-    },
-    "Jonathan Jones": {
-        "Team": "NE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "1"
     },
     "Nick Vigil": {
         "Team": "DAL",
@@ -1447,12 +1225,6 @@
     },
     "Sheldon Day": {
         "Team": "WSH",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Tyler Matakevich": {
-        "Team": "PIT",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -1577,12 +1349,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Maurice Hurst II": {
-        "Team": "CLE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Anthony Walker Jr.": {
         "Team": "MIA",
         "Sack": "0.0",
@@ -1599,18 +1365,6 @@
         "Team": "CHI",
         "Sack": "0.0",
         "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Kendall Fuller": {
-        "Team": "MIA",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "John Johnson III": {
-        "Team": "LAR",
-        "Sack": "0.0",
-        "Int": "1",
         "ForcedFumble": "0"
     },
     "Tre Flowers": {
@@ -1661,20 +1415,8 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Andrew Billings": {
-        "Team": "CHI",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "1"
-    },
     "Charles Harris": {
         "Team": "CAR",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Chidobe Awuzie": {
-        "Team": "TEN",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -1721,12 +1463,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "A'Shawn Robinson": {
-        "Team": "CAR",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Antonio Hamilton Sr.": {
         "Team": "ATL",
         "Sack": "0.0",
@@ -1738,12 +1474,6 @@
         "Sack": "0.0",
         "Int": "1",
         "ForcedFumble": "1"
-    },
-    "Siran Neal": {
-        "Team": "MIA",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
     },
     "Neville Hewitt": {
         "Team": "HOU",
@@ -1871,32 +1601,8 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Justin Jones": {
-        "Team": "ARI",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "B.J. Hill": {
-        "Team": "CIN",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Bilal Nichols": {
         "Team": "ARI",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Adoree' Jackson": {
-        "Team": "NYG",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Taron Johnson": {
-        "Team": "BUF",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -1985,18 +1691,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "David Njoku": {
-        "Team": "CLE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Oshane Ximines": {
-        "Team": "NE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Avonte Maddox": {
         "Team": "PHI",
         "Sack": "0.0",
@@ -2069,12 +1763,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Chris Lammons": {
-        "Team": "IND",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Lorenzo Carter": {
         "Team": "ATL",
         "Sack": "0.0",
@@ -2100,18 +1788,6 @@
         "ForcedFumble": "0"
     },
     "Kolton Miller": {
-        "Team": "LV",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Vita Vea": {
-        "Team": "TB",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Marcus Epps": {
         "Team": "LV",
         "Sack": "0.0",
         "Int": "0",
@@ -2213,12 +1889,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Shy Tuttle": {
-        "Team": "CAR",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Ugo Amadi": {
         "Team": "NO",
         "Sack": "0.0",
@@ -2247,12 +1917,6 @@
         "Team": "DEN",
         "Sack": "0.0",
         "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Jaire Alexander": {
-        "Team": "GB",
-        "Sack": "0.0",
-        "Int": "2",
         "ForcedFumble": "0"
     },
     "Jordan Whitehead": {
@@ -2315,20 +1979,8 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Darnell Savage": {
-        "Team": "JAX",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Isaiah Oliver": {
         "Team": "NYJ",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Jerome Baker": {
-        "Team": "SEA",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -2347,12 +1999,6 @@
     },
     "Broderick Washington": {
         "Team": "BAL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "David Long Jr.": {
-        "Team": "MIA",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -2393,12 +2039,6 @@
         "Int": "1",
         "ForcedFumble": "0"
     },
-    "Robert Hunt": {
-        "Team": "CAR",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Alec Ingold": {
         "Team": "MIA",
         "Sack": "0.0",
@@ -2415,12 +2055,6 @@
         "Team": "CAR",
         "Sack": "0.0",
         "Int": "1",
-        "ForcedFumble": "0"
-    },
-    "Juan Thornhill": {
-        "Team": "CLE",
-        "Sack": "0.0",
-        "Int": "0",
         "ForcedFumble": "0"
     },
     "Logan Wilson": {
@@ -2453,12 +2087,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Anfernee Jennings": {
-        "Team": "NE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Daron Payne": {
         "Team": "WSH",
         "Sack": "0.0",
@@ -2479,12 +2107,6 @@
     },
     "Cody Barton": {
         "Team": "DEN",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Britain Covey": {
-        "Team": "PHI",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -2555,12 +2177,6 @@
         "Int": "0",
         "ForcedFumble": "1"
     },
-    "Diontae Johnson": {
-        "Team": "CAR",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Quinton Bell": {
         "Team": "MIA",
         "Sack": "0.0",
@@ -2603,12 +2219,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Jonah Williams": {
-        "Team": "MIN",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Michael Hoecht": {
         "Team": "LAR",
         "Sack": "0.0",
@@ -2629,18 +2239,6 @@
     },
     "Chris Williams": {
         "Team": "CHI",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Ko Kieft": {
-        "Team": "TB",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Antoine Winfield Jr.": {
-        "Team": "TB",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -2669,12 +2267,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Kristian Fulton": {
-        "Team": "LAC",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Isaiah Simmons": {
         "Team": "NYG",
         "Sack": "0.0",
@@ -2687,12 +2279,6 @@
         "Int": "0",
         "ForcedFumble": "1"
     },
-    "Derrick Brown": {
-        "Team": "CAR",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Daniel Thomas": {
         "Team": "JAX",
         "Sack": "0.0",
@@ -2701,12 +2287,6 @@
     },
     "Janarius Robinson": {
         "Team": "LV",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Ben Skowronek": {
-        "Team": "PIT",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -2777,12 +2357,6 @@
         "Int": "1",
         "ForcedFumble": "0"
     },
-    "Amani Hooker": {
-        "Team": "TEN",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "1"
-    },
     "Kristian Welch": {
         "Team": "DEN",
         "Sack": "0.0",
@@ -2807,12 +2381,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Cedrick Wilson Jr.": {
-        "Team": "NO",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Darrell Baker Jr.": {
         "Team": "TEN",
         "Sack": "0.0",
@@ -2831,12 +2399,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Travis Homer": {
-        "Team": "CHI",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Shaq Quarterman": {
         "Team": "LAC",
         "Sack": "0.0",
@@ -2845,12 +2407,6 @@
     },
     "Chazz Surratt": {
         "Team": "NYJ",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Divine Deablo": {
-        "Team": "LV",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -2887,12 +2443,6 @@
     },
     "Collin Johnson": {
         "Team": "CHI",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Jordan Elliott": {
-        "Team": "SF",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -2941,12 +2491,6 @@
     },
     "Luke Farrell": {
         "Team": "JAX",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Jordan Fuller": {
-        "Team": "CAR",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -3007,12 +2551,6 @@
     },
     "Nazeeh Johnson": {
         "Team": "KC",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Curtis Robinson": {
-        "Team": "SF",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -3139,12 +2677,6 @@
     },
     "Kingsley Jonathan": {
         "Team": "BUF",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Ja'Sir Taylor": {
-        "Team": "LAC",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -3293,12 +2825,6 @@
         "Int": "3",
         "ForcedFumble": "0"
     },
-    "DeVonta Smith": {
-        "Team": "PHI",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Daiyan Henley": {
         "Team": "LAC",
         "Sack": "0.0",
@@ -3311,20 +2837,8 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Markquese Bell": {
-        "Team": "DAL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Connor Heyward": {
         "Team": "PIT",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Baron Browning": {
-        "Team": "DEN",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -3407,12 +2921,6 @@
         "Int": "1",
         "ForcedFumble": "0"
     },
-    "Drew Dalman": {
-        "Team": "ATL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "D.J. Davidson": {
         "Team": "NYG",
         "Sack": "0.0",
@@ -3449,12 +2957,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Nate Landman": {
-        "Team": "ATL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Marquise Blair": {
         "Team": "SEA",
         "Sack": "0.0",
@@ -3466,12 +2968,6 @@
         "Sack": "0.0",
         "Int": "2",
         "ForcedFumble": "0"
-    },
-    "Devin Lloyd": {
-        "Team": "JAX",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "1"
     },
     "Ali Gaye": {
         "Team": "TEN",
@@ -3533,12 +3029,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Tony Fields II": {
-        "Team": "CLE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Bryan Cook": {
         "Team": "KC",
         "Sack": "0.0",
@@ -3593,12 +3083,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Pierre Strong Jr.": {
-        "Team": "CLE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Zyon McCollum": {
         "Team": "TB",
         "Sack": "0.0",
@@ -3619,12 +3103,6 @@
     },
     "Winston Reid": {
         "Team": "CLE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Khyiris Tonga": {
-        "Team": "ARI",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -3695,12 +3173,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Terrel Bernard": {
-        "Team": "BUF",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Malik Herring": {
         "Team": "KC",
         "Sack": "0.0",
@@ -3738,12 +3210,6 @@
         "ForcedFumble": "0"
     },
     "Josh Paschal": {
-        "Team": "DET",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Derrick Barnes": {
         "Team": "DET",
         "Sack": "0.0",
         "Int": "0",
@@ -3845,12 +3311,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "JuJu Brents": {
-        "Team": "IND",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Trevor Denbow": {
         "Team": "IND",
         "Sack": "0.0",
@@ -3883,18 +3343,6 @@
     },
     "Yasir Abdullah": {
         "Team": "JAX",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Talanoa Hufanga": {
-        "Team": "SF",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Kana'i Mauga": {
-        "Team": "LV",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -3949,12 +3397,6 @@
     },
     "Jamien Sherwood": {
         "Team": "NYJ",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Chris Olave": {
-        "Team": "NO",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -4169,12 +3611,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Tank Dell": {
-        "Team": "HOU",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Joe Andreessen": {
         "Team": "BUF",
         "Sack": "0.0",
@@ -4235,12 +3671,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Jalyn Armour-Davis": {
-        "Team": "BAL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Elijah Moore": {
         "Team": "CLE",
         "Sack": "0.0",
@@ -4258,12 +3688,6 @@
         "Sack": "0.0",
         "Int": "1",
         "ForcedFumble": "1"
-    },
-    "Cory Trice Jr.": {
-        "Team": "PIT",
-        "Sack": "0.0",
-        "Int": "1",
-        "ForcedFumble": "0"
     },
     "Bobby Brown III": {
         "Team": "LAR",
@@ -4321,12 +3745,6 @@
     },
     "Amon-Ra St. Brown": {
         "Team": "DET",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Tyson Campbell": {
-        "Team": "JAX",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -4457,12 +3875,6 @@
         "Int": "1",
         "ForcedFumble": "0"
     },
-    "Jarrian Jones": {
-        "Team": "JAX",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Isaiah Foskey": {
         "Team": "NO",
         "Sack": "0.0",
@@ -4498,12 +3910,6 @@
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "1"
-    },
-    "Storm Duck": {
-        "Team": "MIA",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
     },
     "Jaylen McCollough": {
         "Team": "LAR",
@@ -4567,12 +3973,6 @@
     },
     "Mike Sainristil": {
         "Team": "WSH",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "JL Skinner": {
-        "Team": "DEN",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -4709,12 +4109,6 @@
         "Int": "0",
         "ForcedFumble": "1"
     },
-    "Ivan Pace Jr.": {
-        "Team": "MIN",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Jammie Robinson": {
         "Team": "CAR",
         "Sack": "0.0",
@@ -4735,24 +4129,6 @@
     },
     "Jaxon Smith-Njigba": {
         "Team": "SEA",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Carrington Valentine": {
-        "Team": "GB",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Caelen Carson": {
-        "Team": "DAL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Junior Colson": {
-        "Team": "LAC",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -4811,12 +4187,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Ennis Rakestraw Jr.": {
-        "Team": "DET",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Treylon Burks": {
         "Team": "TEN",
         "Sack": "0.0",
@@ -4841,12 +4211,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Mohamoud Diabate": {
-        "Team": "CLE",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Ja'Quan McMillian": {
         "Team": "DEN",
         "Sack": "0.0",
@@ -4859,12 +4223,6 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Jermaine Johnson": {
-        "Team": "NYJ",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Brandin Echols": {
         "Team": "NYJ",
         "Sack": "0.0",
@@ -4873,12 +4231,6 @@
     },
     "Jay Ward": {
         "Team": "MIN",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Tyler Davis": {
-        "Team": "LAR",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
@@ -5099,32 +4451,14 @@
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Tyrus Wheat": {
-        "Team": "DAL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Art Green": {
         "Team": "NYG",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
     },
-    "Deane Leonard": {
-        "Team": "LAC",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
     "Tavius Robinson": {
         "Team": "BAL",
-        "Sack": "0.0",
-        "Int": "0",
-        "ForcedFumble": "0"
-    },
-    "Brian Branch": {
-        "Team": "DET",
         "Sack": "0.0",
         "Int": "0",
         "ForcedFumble": "0"
