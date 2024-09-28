@@ -3,6 +3,8 @@
 ## Features:
 - **Team Offensive Yards** weighted against opponents
 - **Team Defensive Yards** weighted against opponents
+- **Team Points For** weighted against opponents
+- **Team Points Against** weighted against opponents
 - **Receiving Stats** emphasis on yards after catch
 - **QB Stats** emphasis on QB rating and Adjusted QB rating
 - **Rushing Stats** emphasis on big plays and average yards
