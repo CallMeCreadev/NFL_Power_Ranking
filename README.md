@@ -1,17 +1,18 @@
-Power Ranking tool for NFL match ups:
-Features:  
-Team Offensive Yards weighted against opponents
-Team Defensive Yards weighted against opponents
-Recieving Stats emphasis on yards after catch
-QB Stats emphasis on QB rating and Adjusted QB rating
-Rushing stats emphasis on big plays and average yards
-Defensive Stats emphasis on Sacks, Forced Fumbles, Interceptions
-Mistake stat focusing on teams personal fumbles
-Penalty stat focusing on penalty ratio
-Pruning feature to remove injured player stats from team power rank
-Home field advantage (on average 11% bonus to overall power rank)
+# Power Ranking Tool for NFL Match Ups
 
-Displays the upcomming weeks match ups and each teams power rank as well as the betting odds for the team with the higher rank.
+## Features:
+- **Team Offensive Yards** weighted against opponents
+- **Team Defensive Yards** weighted against opponents
+- **Receiving Stats** emphasis on yards after catch
+- **QB Stats** emphasis on QB rating and Adjusted QB rating
+- **Rushing Stats** emphasis on big plays and average yards
+- **Defensive Stats** emphasis on Sacks, Forced Fumbles, Interceptions
+- **Mistake Stat** focusing on teams' personal fumbles
+- **Penalty Stat** focusing on penalty ratio
+- **Pruning Feature** to remove injured player stats from team power rank
+- **Home Field Advantage** (on average 11% bonus to overall power rank)
+
+Displays the upcoming week's matchups and each team's power rank as well as the betting odds for the team with the higher rank.
 
 
 
