@@ -1,0 +1,58 @@
+[
+    {
+        "matchup": "Seahawks (Power Ranking: 0.905) vs 49ers (Power Ranking: 0.829)",
+        "odds": "SEA +155"
+    },
+    {
+        "matchup": "Bears (Power Ranking: 0.97) vs Jaguars (Power Ranking: 0.539)",
+        "odds": "CHI -135"
+    },
+    {
+        "matchup": "Packers (Power Ranking: 1.15) vs Cardinals (Power Ranking: 0.766)",
+        "odds": "GB -250"
+    },
+    {
+        "matchup": "Titans (Power Ranking: 0.673) vs Colts (Power Ranking: 0.586)",
+        "odds": "TEN -140"
+    },
+    {
+        "matchup": "Texans (Power Ranking: 0.785) vs Patriots (Power Ranking: 0.58)",
+        "odds": "HOU -350"
+    },
+    {
+        "matchup": "Saints (Power Ranking: 0.818) vs Buccaneers (Power Ranking: 0.773)",
+        "odds": "NO +155"
+    },
+    {
+        "matchup": "Browns (Power Ranking: 0.578) vs Eagles (Power Ranking: 0.576)",
+        "odds": "CLE +350"
+    },
+    {
+        "matchup": "Commanders (Power Ranking: 0.98) vs Ravens (Power Ranking: 0.843)",
+        "odds": "WAS +240"
+    },
+    {
+        "matchup": "Broncos (Power Ranking: 0.924) vs Chargers (Power Ranking: 0.611)",
+        "odds": "DEN +125"
+    },
+    {
+        "matchup": "Steelers (Power Ranking: 0.77) vs Raiders (Power Ranking: 0.596)",
+        "odds": "PIT -160"
+    },
+    {
+        "matchup": "Lions (Power Ranking: 0.897) vs Cowboys (Power Ranking: 0.885)",
+        "odds": "DET -160"
+    },
+    {
+        "matchup": "Falcons (Power Ranking: 0.761) vs Panthers (Power Ranking: 0.56)",
+        "odds": "ATL -275"
+    },
+    {
+        "matchup": "Bengals (Power Ranking: 0.682) vs Giants (Power Ranking: 0.68)",
+        "odds": "CIN -185"
+    },
+    {
+        "matchup": "Bills (Power Ranking: 0.875) vs Jets (Power Ranking: 0.803)",
+        "odds": "BUF -145"
+    }
+]

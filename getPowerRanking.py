@@ -216,12 +216,12 @@ def calculate_true_power_rank(power_ranks, points_power_ranks, team_stat_ratios,
             additional_stats = team_stat_ratios[team]
             # Combine all the stats into a single true power rank by averaging
             combined_rank = (
-                                    .66 * yards_power_rank +
-                                    .66 * points_power_rank +
-                                    .66 * penalty_stat +  # Include the normalized penalty stat
+                                    .77 * yards_power_rank +
+                                    .77 * points_power_rank +
+                                    .33 * penalty_stat +  # Include the normalized penalty stat
                                     additional_stats.get('Defensive_Stat', 0.0) +
-                                    additional_stats.get('BigPlay', 0.0) +
-                                    additional_stats.get('Fumble', 0.0) +
+                                    .66 * additional_stats.get('BigPlay', 0.0) +
+                                    .33 * additional_stats.get('Fumble', 0.0) +
                                     additional_stats.get('QB_combined_stat', 0.0) +
                                     additional_stats.get('Run_game_stat', 0.0)
                             ) / 8.0  # Adjust the divisor based on the number of stats included

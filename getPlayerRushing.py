@@ -55,10 +55,11 @@ for row in name_team_body.find_all('tr', class_='Table__TR'):
 def getAVG_rush(row):
     td_elements = row.find_all('td', class_='Table__TD')
     if len(td_elements) >= 10:
-        rating1 = td_elements[4].text  # Example: 45.5
-        rating2 = td_elements[6].text  # Example: 45.5
-        rating3 = td_elements[9].text  # Example: 45.5
-        return rating1, rating2, rating3
+        if float(td_elements[3].text) >= float(td_elements[1].text) * 20:
+            rating1 = td_elements[4].text  # Example: 45.5
+            rating2 = td_elements[6].text  # Example: 45.5
+            rating3 = td_elements[9].text  # Example: 45.5
+            return rating1, rating2, rating3
     return None, None, None
 
 # Extract ratings from the second <tbody> and match them to quarterbacks
@@ -68,9 +69,13 @@ for row in stats_body.find_all('tr', class_='Table__TR'):
     # Use index or other matching criteria if available to ensure correct pairing
     if idx < len(players_dict):
         player_name = list(players_dict.keys())[idx]  # Assuming order matches
-        players_dict[player_name]['RushAVG'] = rating1
-        players_dict[player_name]['BigPlay'] = rating2
-        players_dict[player_name]['Fumble'] = rating3
+        if rating1 is not None and rating2 is not None and rating3 is not None:
+            players_dict[player_name]['RushAVG'] = rating1
+            players_dict[player_name]['BigPlay'] = rating2
+            players_dict[player_name]['Fumble'] = rating3
+        else:
+            # Remove player if any rating is None
+            del players_dict[player_name]
 
         idx += 1
 
@@ -80,7 +85,7 @@ def save_to_file(data, filename):
         json.dump(data, f, indent=4)
     print(f"Data saved to {filename}")
 
-# Save the players_dict to a file
+# Save the players_dict to a file, excluding any with None ratings
 save_to_file(players_dict, 'json/player_rushing.json')
 
 # Close the WebDriver

@@ -37,7 +37,7 @@ team_name_mapping = {
 }
 
 # Load the data from your file
-input_filename = 'normalized_net_yards.json'
+input_filename = 'json/penalty_yards_data.json'
 with open(input_filename, 'r') as file:
     data = json.load(file)
 

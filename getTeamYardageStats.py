@@ -167,6 +167,7 @@ if __name__ == "__main__":
     save_to_file(defensive_stats_dict, "json/TeamsDefense.json")
 
     # Example of loading the dictionaries back into a Python script
+    """
     loaded_offense = load_from_file("json/TeamsOffense.json")
     loaded_defense = load_from_file("json/TeamsDefense.json")
 
@@ -175,3 +176,5 @@ if __name__ == "__main__":
 
     print("\nLoaded Defensive Stats Data:")
     print(loaded_defense)
+    """
+    print("Saving Done")

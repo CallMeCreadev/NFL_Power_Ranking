@@ -1,98 +1,86 @@
 [
     {
-        "team1": "Saints",
-        "odds1": "NO +130",
-        "team2": "Falcons",
-        "odds2": "ATL -155"
+        "team1": "49ers",
+        "odds1": "SF -190",
+        "team2": "Seahawks",
+        "odds2": "SEA +155"
     },
     {
         "team1": "Jaguars",
-        "odds1": "JAX +220",
-        "team2": "Texans",
-        "odds2": "HOU -275"
-    },
-    {
-        "team1": "Bengals",
-        "odds1": "CIN -225",
-        "team2": "Panthers",
-        "odds2": "CAR +185"
-    },
-    {
-        "team1": "Eagles",
-        "odds1": "PHI -120",
-        "team2": "Buccaneers",
-        "odds2": "TB +100"
-    },
-    {
-        "team1": "Broncos",
-        "odds1": "DEN +320",
-        "team2": "Jets",
-        "odds2": "NYJ -400"
-    },
-    {
-        "team1": "Steelers",
-        "odds1": "PIT -135",
-        "team2": "Colts",
-        "odds2": "IND +115"
-    },
-    {
-        "team1": "Vikings",
-        "odds1": "MIN +125",
-        "team2": "Packers",
-        "odds2": "GB -150"
-    },
-    {
-        "team1": "Rams",
-        "odds1": "LAR +135",
+        "odds1": "JAX +110",
         "team2": "Bears",
-        "odds2": "CHI -160"
+        "odds2": "CHI -135"
     },
     {
-        "team1": "Commanders",
-        "odds1": "WAS +150",
-        "team2": "Cardinals",
-        "odds2": "ARI -185"
+        "team1": "Cardinals",
+        "odds1": "ARI +200",
+        "team2": "Packers",
+        "odds2": "GB -250"
     },
     {
-        "team1": "Patriots",
-        "odds1": "NE +425",
-        "team2": "49ers",
-        "odds2": "SF -600"
+        "team1": "Colts",
+        "odds1": "IND +115",
+        "team2": "Titans",
+        "odds2": "TEN -140"
+    },
+    {
+        "team1": "Texans",
+        "odds1": "HOU -350",
+        "team2": "Patriots",
+        "odds2": "NE +260"
+    },
+    {
+        "team1": "Buccaneers",
+        "odds1": "TB -190",
+        "team2": "Saints",
+        "odds2": "NO +155"
     },
     {
         "team1": "Browns",
-        "odds1": "CLE -135",
-        "team2": "Raiders",
-        "odds2": "LV +115"
+        "odds1": "CLE +350",
+        "team2": "Eagles",
+        "odds2": "PHI -450"
     },
     {
-        "team1": "Chiefs",
-        "odds1": "KC -350",
-        "team2": "Chargers",
-        "odds2": "LAC +280"
+        "team1": "Commanders",
+        "odds1": "WAS +240",
+        "team2": "Ravens",
+        "odds2": "BAL -300"
+    },
+    {
+        "team1": "Chargers",
+        "odds1": "LAC -150",
+        "team2": "Broncos",
+        "odds2": "DEN +125"
+    },
+    {
+        "team1": "Steelers",
+        "odds1": "PIT -160",
+        "team2": "Raiders",
+        "odds2": "LV +135"
+    },
+    {
+        "team1": "Lions",
+        "odds1": "DET -160",
+        "team2": "Cowboys",
+        "odds2": "DAL +135"
+    },
+    {
+        "team1": "Falcons",
+        "odds1": "ATL -275",
+        "team2": "Panthers",
+        "odds2": "CAR +220"
+    },
+    {
+        "team1": "Bengals",
+        "odds1": "CIN -185",
+        "team2": "Giants",
+        "odds2": "NYG +150"
     },
     {
         "team1": "Bills",
-        "odds1": "BUF +110",
-        "team2": "Ravens",
-        "odds2": "BAL -130"
-    },
-    {
-        "team1": "Titans",
-        "odds1": "TEN +105",
-        "team2": "Dolphins",
-        "odds2": "MIA -125"
-    },
-    {
-        "team1": "Seahawks",
-        "odds1": "SEA +155",
-        "team2": "Lions",
-        "odds2": "DET -190"
-    },
-    {
-        "team1": "Cowboys",
-        "odds1": "DAL -250",
-        "team2": "Giants",
-        "odds2": "NYG +200"
+        "odds1": "BUF -145",
+        "team2": "Jets",
+        "odds2": "NYJ +120"
     }
 ]
