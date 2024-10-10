@@ -18,52 +18,39 @@ Displays the upcoming week's matchups and each team's power rank as well as the 
 
 ---
 
-## Example Power Ranking from September 25th:
+## Example Power Ranking from October 9th:
 
-- **Saints (Power Ranking: 1.293) vs Falcons (Power Ranking: 0.891)**  
-  Odds: NO +130
+**Seahawks (Power Ranking: 0.905) vs 49ers (Power Ranking: 0.829)**
+	Odds: SEA +155
+**Bears (Power Ranking: 0.97) vs Jaguars (Power Ranking: 0.539)**
+	Odds: CHI -135
+Packers (Power Ranking: 1.15) vs Cardinals (Power Ranking: 0.766)
+	Odds: GB -250
+Titans (Power Ranking: 0.673) vs Colts (Power Ranking: 0.586)
+	Odds: TEN -140
+Texans (Power Ranking: 0.785) vs Patriots (Power Ranking: 0.58)
+	Odds: HOU -350
+Saints (Power Ranking: 0.818) vs Buccaneers (Power Ranking: 0.773)
+	Odds: NO +155
+Browns (Power Ranking: 0.578) vs Eagles (Power Ranking: 0.576)
+	Odds: CLE +350
+Commanders (Power Ranking: 0.98) vs Ravens (Power Ranking: 0.843)
+	Odds: WAS +240
+Broncos (Power Ranking: 0.924) vs Chargers (Power Ranking: 0.611)
+	Odds: DEN +125
+Steelers (Power Ranking: 0.77) vs Raiders (Power Ranking: 0.596)
+	Odds: PIT -160
+Lions (Power Ranking: 0.897) vs Cowboys (Power Ranking: 0.885)
+	Odds: DET -160
+Falcons (Power Ranking: 0.761) vs Panthers (Power Ranking: 0.56)
+	Odds: ATL -275
+Bengals (Power Ranking: 0.682) vs Giants (Power Ranking: 0.68)
+	Odds: CIN -185
+Bills (Power Ranking: 0.875) vs Jets (Power Ranking: 0.803)
+	Odds: BUF -145
 
-- **Texans (Power Ranking: 1.009) vs Jaguars (Power Ranking: 0.73)**  
-  Odds: HOU -275
 
-- **Bengals (Power Ranking: 0.825) vs Panthers (Power Ranking: 0.785)**  
-  Odds: CIN -225
+## Example Smart Bets from October 9th:
 
-- **Buccaneers (Power Ranking: 1.017) vs Eagles (Power Ranking: 0.898)**  
-  Odds: TB +100
-
-- **Jets (Power Ranking: 1.125) vs Broncos (Power Ranking: 0.9)**  
-  Odds: NYJ -400
-
-- **Steelers (Power Ranking: 1.205) vs Colts (Power Ranking: 0.786)**  
-  Odds: PIT -135
-
-- **Vikings (Power Ranking: 1.541) vs Packers (Power Ranking: 1.308)**  
-  Odds: MIN +125
-
-- **Rams (Power Ranking: 0.92) vs Bears (Power Ranking: 0.902)**  
-  Odds: LAR +135
-
-- **Cardinals (Power Ranking: 1.155) vs Commanders (Power Ranking: 0.745)**  
-  Odds: ARI -185
-
-- **49ers (Power Ranking: 0.936) vs Patriots (Power Ranking: 0.59)**  
-  Odds: SF -600
-
-- **Raiders (Power Ranking: 0.985) vs Browns (Power Ranking: 0.648)**  
-  Odds: LV +115
-
-- **Chargers (Power Ranking: 1.112) vs Chiefs (Power Ranking: 1.039)**  
-  Odds: LAC +280
-
-- **Bills (Power Ranking: 1.415) vs Ravens (Power Ranking: 1.15)**  
-  Odds: BUF +110
-
-- **Dolphins (Power Ranking: 0.978) vs Titans (Power Ranking: 0.916)**  
-  Odds: MIA -125
-
-- **Lions (Power Ranking: 1.172) vs Seahawks (Power Ranking: 1.116)**  
-  Odds: DET -190
-
-- **Cowboys (Power Ranking: 0.973) vs Giants (Power Ranking: 0.861)**  
-  Odds: DAL -250
+**Commanders (Power Ranking: 0.98)  vs Ravens (Power Ranking: 0.843), Odds: + 240**
+**Broncos (Power Ranking: 0.924)  vs Chargers (Power Ranking: 0.611), Odds: + 125**
