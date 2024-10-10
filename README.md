@@ -20,9 +20,9 @@ Displays the upcoming week's matchups and each team's power rank as well as the 
 
 ## Example Power Ranking from October 9th:
 
-**Seahawks (Power Ranking: 0.905) vs 49ers (Power Ranking: 0.829)**
+-**Seahawks (Power Ranking: 0.905) vs 49ers (Power Ranking: 0.829)**
 	Odds: SEA +155
-**Bears (Power Ranking: 0.97) vs Jaguars (Power Ranking: 0.539)**
+-**Bears (Power Ranking: 0.97) vs Jaguars (Power Ranking: 0.539)**
 	Odds: CHI -135
 Packers (Power Ranking: 1.15) vs Cardinals (Power Ranking: 0.766)
 	Odds: GB -250
